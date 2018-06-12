@@ -1,0 +1,1721 @@
+/*
+ Localizable.strings
+ IMobilePlayer
+ 
+ Created by luo king on 11-12-14.
+ Copyright 2011 cctv. All rights reserved.
+ */
+//app name
+"appName"="DEMO";
+
+//lan name
+"lanName"="cn";
+
+/* tab home page */
+"tabHomePage" = "主页";
+
+/* tab home page */
+"tabHomeDevice" = "设备列表";
+
+/* tab Picture page */
+"tabScreenShot" = "图片";
+
+/* tab Playback page */
+"tabPlayback" = "录像回放";
+
+/* tab Help page */
+"tabHelp" = "帮助";
+
+/* tab system */
+"tabSetting" = "配置设备";
+
+/* tab more */
+"tabMore" = "更多功能";
+
+/* tab system */
+"tabSystem" = "系统设置";
+
+/* tab add device page */
+"tabAddManually" = "添加设备ID";
+
+/* tab Search page */
+"tabSearch" = "搜索设备";
+
+/* tab Delete page */
+"tabDelete" = "删除/修改";
+
+
+/* button login */
+"btnLogin" = "登录";
+
+/* button listview */
+"btnServerList" = "设备列表";
+
+/*lable server*/
+"lblServer" = "设备地址：";
+
+/*lable port*/
+"lblPort" = "端   口：";
+
+/*lable username*/
+"lblUsername" = "用户名：";
+
+
+/*lable password*/
+"lblPassword" = "密   码：";
+
+/*lable doing login*/
+"lblDoingLogin" = "正在登录，请稍等...";
+
+/*lable drag onto the window and play*/
+"lblDragAndPlay" = "拖到播放窗口";
+
+/*lable Disk  tatal spacet*/
+"lblDiskSize" = "磁盘大小:";
+
+/*lable  remaining disk space*/
+"lblDiskReainSize" = "磁盘剩余大小:";
+
+/* button Delete */
+"btnDelete" = "删除设备";
+
+/* button modify */
+"btnModify" = "修改设备";
+
+/* button Modify Multable*/
+"btnModifyMultable" = "批量删除";
+
+/* button Inverse */
+"btnInverse" = "反选";
+
+/* button Select All */
+"btnSelectAll" = "全选";
+
+/* button back */
+"btnBack" = "返回";
+
+/* button Stop */
+"btnStop" = "停止";
+
+/* button Play */
+"btnPlay" = "播放";
+
+/* button Add */
+"btnAdd" = "添加";
+
+/* button Add */
+"btnDemo" = "演示";
+
+/* button demo List */
+"btnDemoList" = "演示点";
+
+/* button device manage */
+"btnDevManage" = "设备管理";
+
+
+/* button OK */
+"btnOK" = "确定";
+
+/* button Edit */
+"btnEdit" = "编辑";
+
+/* button Finish */
+"btnFinish" = "完成";
+
+/* button Cancel */
+"btnCancel" = "取消";
+
+/* button YES */
+"btnYES" = "是";
+
+/* button NO */
+"btnNO" = "否";
+
+/* button Save */
+"btnSave" = "保存";
+
+/* button Search */
+"btnSearch" = "搜索";
+
+/* button ReSearch */
+"btnResearch" = "搜索设备";
+
+/* button addtolist */
+"btnAddToList" = "添加到列表";
+
+/* button IsInList */
+"btnIsInList" = "已添加";
+
+/* button click and cancel login */
+"btnClickToCancelLogin" = "点击这里取消登陆";
+
+/* button click and cancel search */
+"btnClickToCancelSearch" = "点击这里取消设备搜索";
+
+/* button click and cancel update check */
+"btnClickToCancelUpdateCheck" = "点击这里取消检测更新";
+
+/* button vertical auto */
+"btnPTZVerticalAuto" = "垂直自动";
+
+/* button vertical auto */
+"btnPTZHorizontalAuto" = "水平自动";
+
+/* btn Invisible pwd*/
+"btnNetInvisiblePwd" = "隐藏密码";
+
+/* lable Setting */
+"lblSetting" = "设置";
+
+/* lable local Setting */
+"lblLocalSetting" = "本地设置：";
+
+/* lable remote Setting */
+"lblRemoteSetting" = "远程设置：";
+
+/* lable server info */
+"lblServerInfo" = "设备信息";
+
+/* lable net Setting */
+"lblNetSetting" = "网络设置";
+
+/* lable record Setting */
+"lblRecordSetting" = "录像设置";
+
+/* lable datetime Setting */
+"lblDatetimeSetting" = "时间设置";
+
+/* lable user manage */
+"lblUserNamage" = "设备密码";
+
+
+/* lable version info */
+"lblAlarmAndPrompt" = "报警设置";
+
+/* lable alarm picture */
+"lblAlarmPicture" = "报警图片";
+
+/* lable version info */
+"lblVerInfo" = "设备升级";
+
+/* lable app version */
+"lblAppVersion"="软件版本：";
+
+/* lable kernal version */
+"lblKernalVersion"="内核版本：";
+
+/* lable hardware version */
+"lblHWVersion"="硬件版本：";
+
+/* lable net current mode */
+"lblNetCurrentMode" = "当前模式： ";
+
+/* lable net AP Setting */
+"lblNetAPSetting" = "AP (热点模式，无需外接路由器)";
+
+/* lable net Station Setting */
+"lblNetStationSetting" = "Station (路由器连接模式)";
+
+/* btn net wifi list */
+"lblSelectFromWifiList" = "从本地WIFI列表中选取";
+
+/* btn loading wifi list*/
+"lblLodingWifiList" = "正在搜索设备附近的WIFI设备...";
+
+/* btn net wifi list*/
+"lblNetWifiList" = "设备附近的WIFI列表";
+
+/* btn net wifi list*/
+"lblNetVisiblePwd" = "显示密码";
+
+/* btn net wifi open*/
+"lblNetWifiSecureTypeOpen" = "开放";
+
+/* lable record auto record*/
+"lblRecordAutoRecord" = "自动录像：";
+
+/* lable record alarm record*/
+"lblRecordAlarmRecord" = "报警录像：";
+
+/* lable record Enable*/
+"lblRecordEnable" = "开启";
+
+/* lable record Disable*/
+"lblRecordDisable" = "关闭";
+
+/* lable time dev time*/
+"lblTimeDeviceTime" = "设备时间：";
+
+/* lable time date config*/
+"lblTimeDateSetting" = "设置日期：";
+
+/* lable time time config*/
+"lblTimeTimeSetting" = "设置时间：";
+
+/* lable time zone*/
+"lblTimeZoneSetting" = "设置时区：";
+
+/* lable time zone list*/
+"lblTimeZoneList" = "时区列表";
+
+/* lable time zone*/
+"lblTimeZoneW12" = "(GMT -12) 埃尼威托克岛";
+
+/* lable time zone*/
+"lblTimeZoneW11" = "(GMT -11) 萨摩亚";
+
+/* lable time zone*/
+"lblTimeZoneW10" = "(GMT -10) 夏威夷";
+
+/* lable time zone*/
+"lblTimeZoneW9" = "(GMT -9) 阿拉斯加";
+
+/* lable time zone*/
+"lblTimeZoneW8" = "(GMT -8) 太平洋时间";
+
+/* lable time zone*/
+"lblTimeZoneW7" = "(GMT -7) 山区标准时间";
+
+/* lable time zone*/
+"lblTimeZoneW6" = "(GMT -6) 中部标准时间";
+
+/* lable time zone*/
+"lblTimeZoneW5" = "(GMT -5) 东部时间";
+
+/* lable time zone*/
+"lblTimeZoneW4" = "(GMT -4) 大西洋时间";
+
+/* lable time zone*/
+"lblTimeZoneW3" = "(GMT -3) 巴西利亚";
+
+/* lable time zone*/
+"lblTimeZoneW2" = "(GMT -2) 中大西洋";
+
+/* lable time zone*/
+"lblTimeZoneW1" = "(GMT -1) 亚述尔群岛";
+
+/* lable time zone*/
+"lblTimeZoneZero" = "(GMT ＋0) 格林威治";
+
+/* lable time zone*/
+"lblTimeE1" = "(GMT +1) 罗马";
+
+/* lable time zone*/
+"lblTimeE2" = "(GMT +2) 以色列";
+
+/* lable time zone*/
+"lblTimeE3" = "(GMT +3) 莫斯科";
+
+/* lable time zone*/
+"lblTimeE4" = "(GMT +4) 巴库";
+
+/* lable time zone*/
+"lblTimeE5" = "(GMT +5) 新德里";
+
+/* lable time zone*/
+"lblTimeE6" = "(GMT +6) Dhakar";
+
+/* lable time zone*/
+"lblTimeE7" = "(GMT +7) 曼谷";
+
+/* lable time zone*/
+"lblTimeE8" = "(GMT +8) 北京";
+
+/* lable time zone*/
+"lblTimeE9" = "(GMT +9) 东京";
+
+/* lable time zone*/
+"lblTimeE10" = "(GMT +10) 悉尼";
+
+/* lable time zone*/
+"lblTimeE11" = "(GMT +11) 马加丹";
+
+/* lable time zone*/
+"lblTimeE12" = "(GMT +12) 惠灵顿";
+
+
+/* btn time sync with phone time*/
+"lblTimeSyncPhoneTime" = "同步为手机时间";
+
+/* btn user userinfo*/
+"lblUserInfo" = "用户信息";
+
+/* btn user modify password*/
+"lblUserModifyPwd" = "修改密码";
+
+/* btn user old password*/
+"lblUserOldPwd" = "原密码：";
+
+/* btn user new password*/
+"lblUserNewPwd" = "新密码：";
+
+/* btn user confirm*/
+"lblUserConfirm" = "确认密码：";
+
+//add 20131109
+/*lable device id*/
+"lblDevID"="设备ID：";
+
+/*notice msg server is null*/
+"noticeMsgDevIDIsNull" = "设备ID不能为空！";
+
+/*notice msg ip format err*/
+"noticeMsgIPFormatErr" = "IP地址格式不正确！";
+
+/*notice ap name is null*/
+"noticeMsgApNameIsNULL" = "AP名称不能为空！";
+
+/*notice station name is null*/
+"noticeMsgStationNameIsNULL" = "Wifi名称不能为空！";
+
+/*notice delete finish*/
+"noticeMsgDeleteFinish" = "选中设备已删除";
+
+/*button advance setting*/
+"btnAdvanceSetting" = "高级设置";
+//end add
+
+
+/* lable name */
+"lblName" = "名  称：";
+
+/* lable ip addr */
+"lblIP" = "IP地址：";
+
+/* lable Device Search Title */
+"lblSearchTile" = "设备搜索";
+
+/* lable Device Searching */
+"lblSearching" = "正在搜索设备...";
+
+/* lable Device Search cancel */
+"lblSearchCancel" = "设备搜索被取消";
+
+/*lable search cell notice add to list*/
+"lblAddToLst" = "可以添加到设备列表";
+
+/*lable search cell notice is in list*/
+"lblServerInList" = "设备已添加到设备列表";
+
+/* lable has*/
+"lblHas" = "搜索到";
+
+/* lable device found*/
+"lblFound" = "台设备";
+
+/* lable List Title */
+"lblListTitle" = "设备列表";
+
+/* lable Playing Chn*/
+"lblPlayingChn" = "正在播放通道";
+
+/* lable no user info*/
+"lblNotUserInfo" = "(提示：未输入帐户信息，点击左边图标编辑)";
+
+/* lable password is nil*/
+"lblPasswordNil" = "(密码为空)";
+
+/* notice Title notice*/
+"noticeTitleNotice" = "提示";
+
+/*notice msg device id is null*/
+"noticeMsgDevIDIsNull" = "请输入您要添加的设备ID！";
+
+/*notice msg server is null*/
+"noticeMsgServerIsNull" = "IP地址不能为空！";
+
+/*notice msg port is null*/
+"noticeMsgPortIsNull" = "端口不能为空！";
+
+/*notice msg username is null*/
+"noticeMsgUsernameIsNull" = "用户名不能为空！";
+
+/*notice msg password is null*/
+"noticeMsgPwdIsNull" = "密码不能为空！";
+
+/*notice net seting ok*/
+"noticeMsgNetsettingok" = "网络配置已修改成功：您可能需要改变您的手机网络设置才能连接上该设备。 是否需要打开WIFI设置？";
+
+/*notice net seting ok*/
+"noticeMsgNetsettingSucceed" = "网络配置已修改成功：您可能需要改变您的手机网络设置才能连接上该设备。";
+
+/*notice how to change mode*/
+"noticeMsgChangeMode" = "如果需要切换wifi模式，请按设备上的模式切换按钮";
+
+/*notice stop and back*/
+"noticeMsgStopAndback" = "是否停止接收并返回设备列表？";
+
+/* notice Title notice*/
+"noticeTitleLoginFail" = "登陆失败：";
+
+/* notice Title notice*/
+"noticeTitleConnectFail" = "连接设备失败：";
+
+/*notice msg login fail reflesh list*/
+"noticeMsgLoginFailRefreshList" = "请确保网络正确连接或下拉列表刷新一下";
+
+/*notice msg server is null*/
+"noticeMsgServerDisconnect" = "连接设备失败！";
+
+/*notice msg port is null*/
+"noticeMsgVerifyFail" = "验证失败！";
+
+/*notice msg username is null*/
+"noticeMsgUsernameOrPwdMismacth" = "用户名或密码错误！";
+
+/*notice msg password is null*/
+"noticeMsgVersionNoSuport" = "前端版本不支持！";
+
+/* notice Title notice*/
+"noticeTitleStopPlay" = "播放停止";
+
+/*notice msg server is null*/
+"noticeMsgRecvImageErr" = "接收失败！";
+
+/*notice msg port is null*/
+"noticeMsgConnFail" = "连接失败！";
+
+/*notice delete the server*/
+"noticeMsgDeleteServer" = "是否删除以下设备记录？";
+
+/*notice stop play and return*/
+"noticeMsgPlayingVideo" = "正在播放视频，是否停止并返回？";
+
+/*notice clear server list*/
+"noticeMsgClearList" = "是否清空设备列表？";
+
+/*toast add in list*/
+"toastAddInList" = "已添加到列表";
+
+/*toast add in list*/
+"toastRemoveFromList" = "已从列表删除";
+
+/*toast list is empty*/
+"toastListIsEmpty" = "列表为空，请添加设备到列表";
+
+/*title add */
+"titleAdd"="添加设备";
+
+/*title modify */
+"titleModify"="修改设备信息";
+
+/*title chns */
+"titleChns"="通道";
+
+/*pull to search*/
+"pullToSearch"="下拉搜索本地设备";
+
+/*pull to search*/
+"releaseToStartSearch"="放开启动设备搜索";
+
+/*notice get config OK*/
+"noticeGetConfigOK"="获取配置成功";
+
+/*notice set config fail*/
+"noticeSetConfigOK"="配置保存成功";
+
+/*notice get config fail*/
+"noticeGetConfigFail"="获取配置信息失败： ";
+
+/*notice set config fail*/
+"noticeSetConfigFail"="保存配置信息失败： ";
+
+/*notice connect fail*/
+"noticeCNNFail"="连接失败";
+
+/*notice no user*/
+"noticeNOUser"="用户不存在";
+
+/*notice password err*/
+"noticePWDErr"="用户名或密码错误";
+
+/*notice no priority*/
+"noticeNOPRI"="权限不足";
+
+/*notice time fmt err*/
+"noticeTimeFMTErr"="时间格式错误";
+
+/*notice ap pwd fmt err*/
+"noticeAPPWDFMTErr"="AP密码长度要求为空或者大于等于8个字符";
+
+/*notice station pwd fmt err*/
+"noticeStationPWDFMTErr"="Station密码长度要求为空或者大于等于8个字符";
+
+/*notice pwd fmt err*/
+"noticePWDFMTErr"="密码长度要求为空或者大于等于8个字符";
+
+/*notice HD tips*/
+"noticeHDTips"="横屏播放高清视频效果更佳";
+
+/*notice no new device found*/
+"noticeNoNewDEVFound"="没有搜索到新设备";
+
+/*notice lis fresh*/
+"noticeSearchFinish"="列表已刷新";
+
+/*notice lis fresh*/
+"noticeAddDevice"="新添加设备：";
+
+/*lable getting config*/
+"lblGettingConfig"="正在获取配置信息...";
+
+/*lable Setting config*/
+"lblSettingConfig"="正在保存配置信息...";
+
+
+/*lable search device*/
+"lblSelectedDevice"="选择设备";
+
+/*lable search device*/
+"lblSelectedDate"="日期";
+
+/*lable rec type*/
+"lblRecType"="录像类型";
+
+/*lable All*/
+"lblAll"="全部";
+
+/*lable Auto*/
+"lblAuto"="自动录像";
+
+/*lable Alarm*/
+"lblAlarm"="报警录像";
+
+/*lable Start time*/
+"lblStartTime"="开始时间";
+
+/*lable End time*/
+"lblEndTime"="结束时间";
+
+/*btnSearchFile*/
+"btnSearchFile"="搜索文件";
+
+/*lable filesise*/
+"lblFileSize"="大小： ";
+
+/*lable time start*/
+"lblTimeStart"="开始： ";
+
+/*lable timelen*/
+"lblTimeLen"="时长： ";
+
+/*lable Rec File List*/
+"lblFileList"="显示列表";
+
+/*lable Rec File List loading*/
+"lblFileListLoading"="正在下载录像文件列表...";
+
+/*lable pls select a device*/
+"lblPlsSelectDevice"="请选择设备";
+
+/*btn show file list*/
+"btnShowFileList"="显示列表";
+
+/*btn no files found*/
+"strNoFilesFound"="没有搜索到录像文件";
+
+/*str hour*/
+"strHour"="小时";
+
+/*str minute*/
+"strMin"="分钟";
+
+/*str second*/
+"strSec"="秒";
+
+/*str days*/
+"strDays"="天";
+
+/*str days*/
+"strDays2"="天";
+
+/*str Hours*/
+"strHours"="小时";
+
+/*str Hours*/
+"strHours2"="小时";
+
+/*lable Rec File audio enable*/
+"lblRecFileAudioEnable"="录像音频：";
+
+/*lable Rec File audio enable*/
+"lblRecFileFrameSize"="录像分辨率：";
+
+/*lable Record time len*/
+"lblRecordTimeLen"="录像时间长度大概为";
+
+/*lable no sdcard*/
+"lblNoSDCard"="设备没有插入SD卡";
+
+/*lable sdcard write err*/
+"lbSDCardWritteErr"="SDCard读写异常";
+
+/*lable getting alarm message*/
+"lblGettingAlarmMsg"="正在获取报警信息...";
+
+/*notice no alarm message*/
+"noticNOAlarmMsg"="没有报警信息";
+
+/*lable Smoke Alarm*/
+"lblSmokeAlarm"="烟雾报警";
+
+/*lable motion Alarm*/
+"lblMotionAlarm"="移动报警";
+
+/*lable PIR Alarm*/
+"lblPIRAlarm"="人体感应报警";
+
+/*lable more Alarm message*/
+"lblMoreAlarmMsg"="上拉加载更多报警信息";
+
+/*pull to search*/
+"lblReleaseGetMore"="释放加载更多...";
+
+/*lable loading more Alarm message*/
+"lblLoadingAlarmMsg"="正在加载更多...";
+
+/*lable input name*/
+"lblInputName"="给设备起个别名吧";
+
+/*lable audio switch*/
+"lblAudioSwitch"="语音提示开关：";
+
+/*lable audio main switch*/
+"lblAudioMainSwitch"="语音总开关：";
+
+/*lable audio main switch*/
+"lblAlarmAudio"="报警音提示：";
+
+/*lable audio main switch*/
+"lblLanguange"="提示音语言：";
+
+/*lable audio switch*/
+"lblIOSwitch"="外部报警IO：";
+
+/*lable audio switch*/
+"lblIOMode"="外部報警IO模式：";
+
+/*lable audio switch*/
+"lblIOModeExternal"="外部报警系统";
+
+/*lable audio switch*/
+"lblIOModeInternal"="内部报警系统";
+
+/*lable audio switch*/
+"lblIOModeManualOff"="手动控制关闭输出";
+
+/*lable audio switch*/
+"lblIOModeManualOn"="手动控制开启输入";
+
+/*lable language cn*/
+"lblLanguageCN"="中文";
+
+/*lable language en*/
+"lblLanguageEN"="英文";
+
+/*lable alarm main switch*/
+"lblAlarmMianSwitch"="布撤防开关：";
+
+/*lable demo list*/
+"lblDemoList"="演示点";
+
+/*btn close*/
+"btnClose"="关闭";
+
+/*btn open*/
+"btnOpen"="打开";
+
+/*btn save toa lbums*/
+"btnSavePicture"="保存图片";
+
+
+/*notice  t*/
+"noticeNoNewMsg"="没有新的报警消息";
+
+/*notice  t*/
+"noticeRequestFail"="请求失败";
+
+/*notice  t*/
+"noticeSDCardNotExist"="手机没有存储卡";
+
+/*notice  */
+"noticeScreenshotFail"="截图失败";
+
+/*notice  */
+"noticeScreenshotOK"="图片已经保存到相册";
+
+/*notice  */
+"noticeFileSaveToAlbums"="图片已经保存到相册";
+
+/*notice  */
+"noticeFileSaveFail"="文件保存失败";
+
+/*notice  */
+"noticeSavingImage"="正在保存图片...";
+
+/*lbl  */
+"lblTouchToMoveCam"="滑动屏幕可以调整镜头方向";
+
+/*notice no nv device  */
+"noticeNoNVDevice"="非设备二维码";
+
+/*notice Device found  */
+"noticeDeviceFound"="发现设备";
+
+/*notice no mic pri*/
+"noticeNoMicPRI"="程序没有使用麦克风的权限";
+
+/*notice no album pri */
+"noticeSCNOAlbumsPri"="截图失败，检查程序是否有访问相册的权限";
+
+/*notice no album pri */
+"noticeSFNOAlbumsPri"="图片保存失败，检查程序是否有访问相册的权限";
+
+/*notice no device in list 请点击这里添加设备*/
+"lblNoDeviceInList"="添加设备";
+
+/*button Add ensure  */
+"btnAddEnsure"="确认添加设备";
+
+/*button Add Select  */
+"btnAddDeviceSelected"="添加所选设备";
+
+/*button delete Select  */
+"btnDeleteDeviceSelected"="删除所选设备";
+
+/*button back to list  */
+"btnBackToList"="设备列表";
+
+/*button continue manage  */
+"btnContinueManage"="继续管理";
+
+/*notice device add to list */
+"noticeDeviceAddToList"="设备已成功添加到设备列表\t\n返回设备列表还是继续管理？";
+
+/*notice device delete ok */
+"noticeDeviceDeleteFromList"="设备已成功从设备列表中移除\t\n返回设备列表还是继续管理？";
+
+/*notice add fail */
+"noticeAddFail"="添加失败";
+
+/*notice add fail device exist */
+"noticeDeviceExist"="设备列表中已存在该设备";
+
+/*notice device id should be number */
+"noticeDeviceIDNotRight"="设备ID不能包含非数字的字符";
+
+/*lable alarm sound */
+"lblAlarmSound"="报警提示声音";
+
+/*lable alarm vibrate */
+"lblAlarmVibrate"="报警提示震动";
+
+/*lable  gesture pwd */
+"lblGesturePassword"="手势密码:";
+
+/*lable new gesture pwd */
+"lblNewGesturePassword"="创建密码";
+
+/*lable delete gesture pwd */
+"lblDeleteGesturePassword"="删除密码";
+
+/*lable Modify gesture pwd */
+"lblModifyGesturePassword"="修改密码";
+
+/*lable enter password */
+"lblPlsEnterPassword"="请输入密码";
+
+/*lable enter password */
+"lblPlsSetAPassword"="请设置密码";
+
+/*lable enter password */
+"lblPlsConfirmPassword"="请再次输入密码";
+
+/*lable enter password */
+"lblPasswordAndConfirmNOMatch"="两次输入不一样";
+
+/*lable enter password */
+"lblCreatePwdFail"="两次输入不一样，创建密码失败";
+
+/*lable enter password */
+"lblDeletePwdFailConfirmNOMatch"="两次输入不一样，删除密码失败";
+
+/*lable enter password */
+"lblDeletePwdFailPWDErr"="输入密码不正确，删除密码失败";
+
+/*lable enter password */
+"lblModifyPwdFailConfirmNOMatch"="两次输入不一样，修改密码失败";
+
+/*lable enter password */
+"lblModifyPwdFailPWDErr"="原密码不正确，修改密码失败";
+
+/*lable enter password */
+"lblPlsEnterOld"="请输入原密码";
+
+/*lable enter password */
+"lblPlsEnterNew"="请设置新密码";
+
+/*lable enter password */
+"lblCreatePWDOK"="密码创建成功";
+
+/*lable enter password */
+"lblCreatePWDFail"="密码创建失败";
+
+/*lable enter password */
+"lblDeletePWDOK"="密码删除成功";
+
+/*lable enter password */
+"lblDeletePWDFail"="密码删除失败";
+
+/*lable enter password */
+"lblModifyPWDOK"="密码修改成功";
+
+/*lable enter password */
+"lblModifyPWDFail"="密码修改失败";
+
+/*lable enter password */
+"lblPasswordErr"="您输入的密码有误";
+
+/*lable enter password */
+"lblPwdTryTimes"="您还可以尝试的次数是：";
+
+/*lable enter password */
+"lblRetryAfterTime"="秒后重试";
+
+/*lable app config */
+"lblAppConfig"="个性设置";
+
+/*lable app config */
+"lblAlarmNoticeSound"="报警提示";
+
+/*lable app update check*/
+"lblAppUpdateCheck"="检查更新";
+
+/*lable password manage*/
+"lblPWDManage"="软件密码";
+
+/*lable exit app*/
+"lblExitApp"="软件退出";
+
+/*lable zoon select*/
+"lblZoonSelect"="区域选择";
+
+/*lable pressed speak*/
+"lblHoldToTalk"="按住 说话";
+
+/*lable ptz ctrl notice*/
+"lblPTZCtrlNotice"="滑动屏幕可以调整镜头方向";
+
+/*button start search*/
+"btnClickToStartSearch"="点击搜索设备";
+
+/*notice the first one*/
+"noticeTheFirstOne"="已经是第一个";
+
+/*notice the last one*/
+"noticeTheLastOne"="已经是最后一个";
+
+/*lblHasMessage*/
+"lblHasMessage"="有消息";
+
+/*lblNOMessage*/
+"lblNOMessage"="无消息";
+
+/*lblCanSpeakNow*/
+"lblCanSpeak"="您可以开始讲话了";
+
+/*btnStopSearch*/
+"btnStopSearch"="停止搜索";
+
+/*lable FHD*/
+"lblFHD"="超清";
+
+/*lable HD*/
+"lblHD"="高清";
+
+/*lable Normal*/
+"lblNormal"="标清";
+
+/*lable smooth*/
+"lblSmooth"="流畅";
+
+/*lable set alarm*/
+"lblSetAlarm"="撤防";
+
+/*lable cancel alarm*/
+"lblCancelAlarm"="布防";
+
+/*lable id add */
+"lblIDAdd"="手动添加";
+
+/*lable QR add*/
+"lblQRAdd"="扫描二维码";
+
+/*lable QR Scanning*/
+"lblQRScanningTitle"="扫描二维码";
+
+/*lable QR Scanning nitice*/
+"lblQRScanningNotice"="请将二维码放入框内";
+
+/*lable QR add*/
+"lblLanSearch"="搜索局域网";
+
+/*lable sound wave*/
+"lblSoundWave"="声波配置WIFI";
+
+/* lable on*/
+"lblOn" = "开启";
+
+/* lable off*/
+"lblOff" = "关闭";
+
+/*notice no update*/
+"noticeNOUpdates"="没有检测到更新";
+
+/*notice find new version*/
+"noticeFindNewVersion"="检测到新版本";
+
+/*notice if exit app*/
+"noticeIfExitApp"="是否退出软件?";
+
+/* lable wifi name*/
+"lblWifiName" = "WIFI名称";
+
+/* lable wifi password*/
+"lblWifiPWD" = "WIFI密码";
+
+/* lable wave ready*/
+"lblWaveReady" = "准备配置";
+
+/* lable wave config*/
+"lblWaveConfig" = "声波配置";
+
+/* lable input your config*/
+"lblWifiInputNotice" = "请输入需要连接的WIFI和密码";
+
+/* lable no 5G*/
+"lblNo5GNotice" = "温馨提示：请用手机在距离设备3米内进行配置\n暂时不支持5G Wi－Fi";
+
+/* btn next step*/
+"btnNextStep" = "下一步";
+
+/* lable close to device*/
+"lblCloseToDevice" = "请尽量将手机靠近设备";
+
+/* btn play sound wave*/
+"btnPlaySoundWave" = "点击发送声波";
+
+/* btn next to add*/
+"btnNextToAdd" = "听到设备配置完成声音\n点击这里添加设备";
+
+/* btn update device*/
+"btnUpdateDevice" = "更新设备";
+
+/* btn update device to*/
+"btnUpdateDeviceTo" = "更新设备到";
+
+/* btn check update device  */
+"btnUpdateDeviceCheck" = "检测设备更新";
+
+/* btn check update device  */
+"noticeToUpdateChecking" = "正在检测设备更新...";
+
+/* btn device  start*/
+"btnDeviceUpdateStart" = "设备已开始更新，请不要关闭设备";
+
+/* to device  start*/
+"noticeToStartUpdate" = "正在启动设备更新...";
+
+/* lbl device ready*/
+"btnDevicePrepare" = "设备准备工作";
+
+/* to press reset button*/
+"noticeToPressResetBtn" = "请用顶针轻插复位按钮";
+
+/* to ap can not update*/
+"noticeAPCanNotUpdate" = "设备处于AP模式下,无法更新";
+
+/* to no updates*/
+"noticeDeviceNOUpdate" = "没有检测到更新";
+
+/* net change alarm*/
+"noticeWANSettingAlarm" = "当前网络环境改变设备网络，\n会有可能连接不上设备\n是否继续？";
+
+/* to send wave again*/
+"btnSendWaveAgain" = " 返回重新发送声波";
+
+/* to searching device*/
+"lblWaitForDevConfigAndSearchingDevice" = "正在配置，请耐心等候...";
+
+/* no ptz*/
+"noticeDeviceNoPTZ" = "设备不支持云台控制";
+
+/* no  */
+"noticeNextToSearch" = "听到设备“配置更新”提示后，请按“下一步”, 点击“返回”重新发送";
+
+/*lbl ready */
+"lblReady" = "正在连接...";
+
+/*lbl on line */
+"lblonline" = "设备在线";
+
+/*lbl on line lan*/
+"lblonlineLan" = "局域网在线";
+
+/*lbl on line lan*/
+"lblonlineWan" = "互联网在线";
+
+/*lbl ready */
+"lblOffline" = "互联网离线";
+
+
+/*lbl ready */
+"lblLocation" = "位置";
+
+/*lbl set ok */
+"lblLocationOK" = "位置设定成功";
+
+/*lbl set fail */
+"lblLocationFail" = "位置设定失败";
+
+/*click to load picture */
+"lblToLoadAlarmPic" = "点击加载图片";
+
+/*notice pwd nil */
+"noticePWDNeedSet" = "设备密码为空，设置密码可提高安全性。\n是否设置？";
+
+/*notice no notice */
+"noticeNONotice" = "不再提示";
+
+/*notice no notice */
+"lblRecvAlarm" = "接收报警消息";
+
+/*notice no notice */
+"lblSaveNotice" = "密码安全提示";
+
+/*lable alarm sound */
+"lblPromtsSetting"="推送通知";
+
+/* lable nike name */
+"lblRName" = "设备别称：";
+
+/* lable login password */
+"lblLPassword" = "访问密码：";
+
+/* lable smart link config*/
+"lblSmartLinkConfig" = "Wifi智能快配";
+
+/* btn resend smart link config*/
+"btnBackToSmartInput" = "取消配置";
+
+/* notice config time out*/
+"noticeSmartLinkTimeoutTitle" = "配置超时";
+
+/* notice config time out*/
+"noticeSmartLinkTimeout" = "设备与WIFI连接信号太弱或密码有误";
+
+/* lable click to ap*/
+"lblSetDeviceToAP" = "轻按设备复位键,将其切换成热点";
+
+/* lable connect ap*/
+"lblConnAP" = "到手机WIFI设置中连接上该热点(MV开头的WIFI)";
+
+/* lable Lan search*/
+"lblSearchFromLan" = "局域网搜索设备(下拉设备列表或点击搜索局域网)";
+
+/* lable remote config to station*/
+"lblConfigToStation" = "选择\"配置设备\",然后选择你搜索回来的设备,然后在\"网络设置\"中选择Station模式,并选择你需要连接的wifi路由器,输入密码,最后保存";
+
+/* lable AP link guidelines*/
+"lblAPLinckGuidline" = "热点连接指引";
+
+/* lable ptzx title*/
+"lblPTZXTitle" = "预置位设置与定位";
+
+/* lable ptzx title*/
+"btnPTZXSet" = "设定";
+
+/* lable ptzx title*/
+"btnPTZXCall" = "预置位调用";
+
+/* lable alarm device*/
+"lblAlarmDeviceList" = "报警设备列表";
+
+/* lable  s*/
+"lblGettingAlarmList" = "获取报警设备列...";
+
+/* lable  */
+"lblAddAlarmDeviceTitle" = "添加新设备";
+
+/* lable s*/
+"lblModfiyDeviceTitle" = "修改设备";
+
+/* btn alarm device*/
+"btnAddAlarmDevice" = "点击＋新设备";
+
+/* lbl alarm name*/
+"lblAlarmName" = "区域:";
+
+/* lbl addr code*/
+"lblAddrCode" = "地址码:";
+
+/* lbl ptzx link*/
+"lblAlarmEnable" = "报警开关:";
+
+/* lbl ptzx link*/
+"lblPTZXLink" = "关联预置位:";
+
+/* lbl alarm type*/
+"lblAlarmType" = "报警类型:";
+
+/* lbl alarm level*/
+"lblAlarmLevel" = "报警等级:";
+
+
+/* lbl alarm level*/
+"lblAlarmLevelL" = "低";
+
+/* lbl alarm level*/
+"lblAlarmLevelM" = "中";
+
+/* lbl alarm level*/
+"lblAlarmLevelH" = "高";
+
+/* lbl alarm device*/
+"lblAlarmDeviceOther" = "其他";
+
+/* lbl alarm device*/
+"lblAlarmDeviceAccessCtrl" = "门禁";
+
+/* lbl alarm device*/
+"lblAlarmDeviceSmokeFeeling" = "烟感";
+
+/* lbl alarm device*/
+"lblAlarmDeviceGas" = "煤气";
+
+/* lbl alarm device*/
+"lblAlarmDeviceWarmFelling" = "温感";
+
+
+/* lbl alarm type*/
+"lblAlarmOther" = "其他报警";
+
+/* lbl alarm type*/
+"lblAlarmMotion" = "移动报警";
+
+/* lbl alarm type*/
+"lblAlarmAccessCtrl" = "门禁报警";
+
+/* lbl alarm type*/
+"lblAlarmSmoke" = "烟感报警";
+
+/* lbl alarm type*/
+"lblAlarmGes" = "煤气报警";
+
+/* lbl alarm type*/
+"lblAlarmWarm" = "温度报警";
+
+/* lbl alarm type*/
+"lblAlarmPIR" = "体感应报警";
+
+/* btn type*/
+"btnConfig" = "配置";
+
+/* btn type*/
+"btnAdded" = "已添加";
+
+/*notice adding*/
+"noticeAddingDevice" = "正在添加设备...";
+
+/*notice deleting*/
+"noticeDeletingDevice" = "正在删除设备...";
+
+/*notice modifying*/
+"noticeModifyingDevice" = "正在修改设备...";
+
+/*notice adding ok*/
+"noticeAddingOK" = "添加成功";
+
+/*notice adding fail*/
+"noticeAddingFail" = "添加失败";
+
+/*notice delete ok*/
+"noticeDeleteOK" = "删除成功";
+
+/*notice delete fail*/
+"noticeDeleteFail" = "删除失败";
+
+/*notice modify ok*/
+"noticeModifyOK" = "修改成功";
+
+/*notice modify fail*/
+"noticeModifyFail" = "修改失败";
+
+/*lbl unlink*/
+"lblUnlink" = "未关联";
+
+/*lbl point*/
+"lblPoint" = "预置位";
+
+/*lbl manage alarm eara*/
+"btnManageAlarmDevice" = "管理防区";
+
+/*btn config ap*/
+"btnConfigAPNode" = "Wifi智能快配一直配不上？点击这里";
+
+/*notice screenshot*/
+"noticeScreenShot" = "正在保存图片...";
+
+/*lbl eara select*/
+"lblZoneSelect" = "区域：";
+
+/*lbl eara title*/
+"lblZoneAuto" = "自动适配";
+
+/*lbl eara title*/
+"lblZoneChina" = "中国大陆";
+
+/*lbl eara title*/
+"lblZoneAS1" = "亚洲1区";
+
+/*lbl eara desc*/
+"lblZoneAS1Desc" = "(日本，韩国，台湾，香港，泰国，越南)";
+
+/*lbl eara title*/
+"lblZoneAS2" = "亚洲2区";
+
+/*lbl eara desc*/
+"lblZoneAS2Desc" = "(马来西亚,新加坡)";
+
+/*lbl eara title*/
+"lblZoneAS3" = "亚洲3区";
+
+/*lbl eara desc*/
+"lblZoneAS3Desc" = "(西亚)";
+
+/*lbl eara title*/
+"lblZoneAS4" = "亚洲4区";
+
+/*lbl eara desc*/
+"lblZoneAS4Desc" = "(南亚印度)";
+
+/*lbl eara title*/
+"lblZoneNA1" = "北美";
+
+/*lbl eara desc*/
+"lblZoneNA1Desc" = "(美国、加拿大)";
+
+/*lbl eara title*/
+"lblZoneSA1" = "北美";
+
+/*lbl eara desc*/
+"lblZoneSA1Desc" = "(南美洲)";
+
+/*lbl eara title*/
+"lblZoneEU1" = "欧洲1区";
+
+/*lbl eara desc*/
+"lblZoneEU1Desc" = "(欧洲1区)";
+
+/*lbl eara title*/
+"lblZoneEU2" = "欧洲2区";
+
+/*lbl eara desc*/
+"lblZoneEU2Desc" = "(欧洲2区)";
+
+
+/*lbl eara title*/
+"lblZoneOA1" = "大洋洲";
+
+/*lbl eara desc*/
+"lblZoneOA1Desc" = "(澳大利亚,新西兰)";
+
+/*lbl eara title*/
+"lblZoneAF1" = "非洲1区";
+
+/*lbl eara desc*/
+"lblZoneAF1Desc" = "(非洲1区)";
+
+/*lbl eara title*/
+"lblZoneAF2" = "非洲2区";
+
+/*lbl eara desc*/
+"lblZoneAF2Desc" = "(非洲2区)";
+
+/*lbl eara selection*/
+"lblZoonSelectTitle" = "区域选择";
+
+
+/*lbl smartlink fail guide*/
+"lblSmartlinkFailGuide" = "智能配置一直配不上？请点击这里";
+
+
+/*lbl Format notice*/
+"noticeFromatNotice" = "警告：格式化将使存储卡上的所有数据丢失，是否继续？";
+
+/*btn format sdcard*/
+"btnFormat" = "格式化存储卡";
+
+/*notice format sdcard*/
+"noticeToStartFormat" = "正在开始格式化存储卡...";
+
+/*lbl Format notice*/
+"noticeFromatOK" = "格式化已开始，请保持设备通电";
+
+/* lblpicker time*/
+"lblPickerTime" = "时间";
+//配置
+"DevPopManu" = "菜单";
+
+/*添加设备*/
+"btnPopSetupUnlinkDevice" = "新设备配置网络";
+"btnPopSetuplinkedDevice" = "添加已联网的设备";
+"lblExplainSetupUnlinkDevice" = "(WIFI智能快配:为首次启动和重置后的设备配置网络)";
+"lblSetuplinkedDevice" = "(手动添加设备ID)";
+
+//手动配置
+"btnSearchWLAN"="局域网搜索";
+
+//更多功能
+"btnMoreHelp"= "操作指导";
+"btnMoreAlbum" = "相册";
+
+//网络配置
+"btnChangeNetMode"= "切换模式";
+"btnChangeToAP" = "切换到AP模式";
+"btnChangeToStation" = "切换到station模式";
+"btnAdvanced" = "高级设置";
+"lblCurrentAP" = "当前为AP模式";
+"lblCurrentStation" = "当前为station模式";
+"lblLocalWiFiList" ="本地wifi列表";
+
+//设备弹出菜单
+"lblDevDelete" = "删 除";
+"lblDevMessage" = "消 息";
+"lblDevEdit" = "编 辑";
+"lblOneKeyAlarmOn" = "撤防";
+"lblOneKeyAlarmOff" = "布防";
+
+//alertview 删除设备确认
+"NoticeLblDelete" = "是否删除该设备";
+"NoticeConfirmDelete" = "删除";
+"NoticeCancel" = "取消";
+
+//配置 编辑  tvExplain
+"tvExplain" = "说明:以及说明的内容";
+
+/*guide view*/
+"guideDevLiset" = "点击这里\n添加你的设备";
+"guidePlayBack" = "点击这里\n选择你的设备";
+"guideSetting" = "点击这里\n选择需要设置的设备";
+
+//網絡設置狀態提示
+"lblWiFiModeUnknow" = "未知当前设备模式";
+
+
+//相册
+"Done" = "返回";
+
+"Select Photos" = "选择图片";
+
+"photo" = "张图片";
+
+"photos" = "张图片";
+
+"of" = "/";
+
+"Select" = "选择";
+
+"pbphotos" = "图片";
+
+"pbvideos" = "视频";
+
+"pbselectall" = "全选";
+
+"pbselectnone" = "全不选";
+
+"GotoAlbumtodelete" = "ios7或以下系统用户请到系统相册删除照片或者录像";
+
+//toast NetworkDisable
+"toastNetWorkDisable" = "网络连接不可用，请检查网络设置";
+
+//一键布撤防toast
+
+"setAlarmOnSuccessful" = "布防成功";
+"setAlarmOffSuccessful" = "撤防成功";
+"setAlarmOnFail" = "布防失败";
+"setAlarmOffFail" = "撤防失败";
+"settingAlarm" = "正在设置，请稍等...";
+
+//静态ip设置
+
+"str_static_ip_config" = "静态IP设置";
+"str_ip" = "IP:";
+"str_subnet_mask" = "子网掩码:";
+"str_gateway" = "网关:";
+"str_main_dns" = "主DNS:";
+"str_sub_dns" = "从DNS:";
+
+"str_null_ip" = "IP地址不能为空";
+"str_null_subnet" = "子网掩码不能为空";
+"str_null_gateway" = "网关不能为空";
+"str_null_main_dns" = "DNS不能为空";
+
+"str_error_ip" = "IP地址错误";
+"str_error_subnet" = "子网掩码错误";
+"str_error_gateway" ="网关错误";
+"str_error_main_dns" = "主DNS错误";
+"str_error_sub_dns" = "从DNS错误";
+"str_auto_config" = "自动分配IP";
+"str_manual_config" = "手动分配IP";
+
+"noticeDeviceUnSupport" = "设备不支持";
+//
+
+// Add By GXG 2016.08.29
+
+// 设备信息 cell 页面
+
+"deviceInfoTableViewCellDelete"  = "删除";
+"deviceInfoTableViewCellEdit"    = "编辑";
+"deviceInfoTableViewCellMessage" = "消息";
+"deviceInfoTableViewCellArm"     = "布防";
+"deviceInfoTableViewCellDisarm"  = "撤防";
+
+// 登录页面
+
+"loginControllerUsername"         = "手机/邮箱";
+"loginControllerPassword"         = "密码";
+"loginControllerReset"            = "忘记密码";
+"loginControllerRegister"         = "快速注册";
+"loginControllerLogin"            = "登录";
+"loginControllerTryout"           = "本地登录";
+"loginControllerUserNotActivated" = "请前往邮箱激活后再登录";
+
+// 快速注册/忘记密码页面
+
+"passwordViewControllerTitleRegister"  = "快速注册";
+"passwordViewControllerTitleReset"     = "忘记密码";
+"passwordViewControllerMobile"         = "手机号";
+"passwordViewControllerEmail"          = "邮箱";
+"passwordViewControllerValidCode"      = "验证码";
+"passwordViewControllerPassword"       = "密码";
+"passwordViewControllerConfirm"        = "确认密码";
+"passwordViewControllerNewPassword"    = "新密码";
+"passwordViewControllerNewConfirm"     = "确认新密码";
+"passwordViewControllerContinue"       = "下一步";
+"passwordViewControllerResend"         = "重新发送";
+"passwordViewControllerSending"        = "正在发送...";
+"passwordViewControllerFailed"         = "发送失败";
+"passwordViewControllerSuccess"        = "发送成功";
+"passwordViewControllerSubmit"         = "提交验证码";
+"passwordViewControllerRegister"       = "注册";
+"passwordViewControllerReset"          = "提交";
+"passwordViewControllerMobileRegister" = "通过手机注册";
+"passwordViewControllerMobileReset"    = "通过手机找回密码";
+"passwordViewControllerEmailRegister"  = "通过邮箱注册";
+"passwordViewControllerEmailReset"     = "通过邮箱找回密码";
+"passwordViewControllerBackToLogin"    = "返回登录页面";
+"passwordViewControllerMobileHint"     = "验证码已发送至手机";
+"passwordViewControllerEmailHint"      = "请前往邮箱激活";
+
+// 重新登录页面
+
+"loginAlertControllerExpired"  = "登录过期, 请重新登录";
+"loginAlertControllerCancel"   = "取消";
+"loginAlertControllerConfirm"  = "登录";
+"loginAlertControllerPassword" = "密码";
+
+// 用户信息页面
+
+"userViewControllerUserInfo" = "用户信息";
+"userViewControllerAccount"  = "账户信息";
+"userViewControllerUserName" = "用户名";
+"userViewControllerSecurity" = "安全管理";
+"userViewControllerPassword" = "修改密码";
+
+// 修改密码页面
+
+"passwordUpdateControllerUpdate"  = "修改密码";
+"passwordUpdateControllerCurrent" = "原密码";
+"passwordUpdateControllerNew"     = "新密码";
+"passwordUpdateControllerConfirm" = "确认新密码";
+"passwordUpdateControllerSubmit"  = "提交";
+
+// 更多功能页面
+
+"helpViewControllerLogin"         = "登录";
+"helpViewControllerLogOut"        = "退出登录";
+"helpViewControllerLogOutConfirm" = "确定退出登录?";
+"aboutApp" = "关于";
+
+// End Add By GXG 2016.08.29
+
+//录像下载
+"btnDownload" = "下载";
+"btnDownloadFail" = "重新下载";
+"btnDownloadsuccess" = "下载成功";
+"btnDownloading" = "下载中";
+"btnConnecting" = "连接中";
+"btnStopDownload" = "停止下载";
+//下载toast
+"lblsavesuccess" = "录像已经保存到相册";
+"lblsavefail" = "录像保存失败";
+"lblDownloadFail" = "下载失败";
+
+//弹框提醒
+"lblDownloading" = "目前有下载任务";
+"lblifCancelDownload" = "是否取消下载";
+"lblCancelDownloadAndPlay" = "是否取消下载并播放";
+
+//playview
+"btnScreenshot" = "截图";
+"btnHolder" = "云台";
+"btnPosition" = "预置位";
+"btnRotate" = "旋转";
+"btnRecord" ="录像";
+"btnRecording" = "录像中...";
+//samrtLink 界面
+"noticeSmartLinkFail" = "智能配置一直配不上？请点击这里";
+
+// 网络请求返回类型
+
+"networkOperationResultCodeTypeSuccess"                 = "操作成功";
+"networkOperationResultCodeTypeNetworkError"            = "网络错误";
+"networkOperationResultCodeTypeIdentifierError"         = "身份错误或过期";
+"networkOperationResultCodeTypeServerError"             = "服务器忙";
+"networkOperationResultCodeTypeSignError"               = "签名错误";
+"networkOperationResultCodeTypeRequestExpired"          = "请求过期";
+"networkOperationResultCodeTypeParameterMissing"        = "缺少参数";
+"networkOperationResultCodeTypeValueDuplicated"         = "重复的值";
+"networkOperationResultCodeTypeInfoNotFound"            = "没有找到信息";
+"networkOperationResultCodeTypeParameterInvalid"        = "无效的参数";
+"networkOperationResultCodeTypeUpToDate"                = "已是最新数据";
+"networkOperationResultCodeTypeOtherError"              = "其他异常";
+"networkOperationResultCodeTypeValidCodeError"          = "验证码错误";
+"networkOperationResultCodeTypeValidCodeExpired"        = "验证码过期";
+"networkOperationResultCodeTypeUsernameMalformed"       = "用户名格式错误";
+"networkOperationResultCodeTypeMailOrMobileMalformed"   = "账号格式错误";
+"networkOperationResultCodeTypeMailOrMobileExist"       = "该账号已被注册";
+"networkOperationResultCodeTypePasswordMalformed"       = "密码不是6-14位";
+"networkOperationResultCodeTypeUserNotExist"            = "没有这个用户";
+"networkOperationResultCodeTypeUsernameOrPasswordError" = "用户名或密码错误";
+"networkOperationResultCodeTypeOldPasswordError"        = "旧密码错误";
+"networkOperationResultCodeTypeUserNotActivated"        = "用户未被激活";
+"networkOperationResultCodeTypeUserActivated"           = "用户已被激活";
+"networkOperationResultCodeTypeDeviceNotExist"          = "用户没有这个设备";
+"networkOperationResultCodeTypeServiceNotExist"         = "用户没有云服务";
+"networkOperationResultCodeTypeInfoNotExist"            = "没有找到对应的信息";
+"networkOperationResultCodeTypeDeviceExistingService"   = "设备已绑定云服务套餐";
+"networkOperationResultCodeTypeServiceExistingDevice"   = "云服务套餐已绑定其他设备";
+"networkOperationResultCodeTypeTokenError"              = "token不对";
+"networkOperationResultCodeTypeTokenExpired"            = "token有效时间过期";
+"networkOperationResultCodeTypeUnknown"                 = "其他错误";
+
+// 更改设备密码
+
+"configViewControllerUsernameNil"              = "用户名不能为空!";
+"configViewControllerCurrentPasswordIncorrect" = "原密码不正确!";
+"configViewControllerNewPasswordNotSame"       = "确认密码和新密码不相同!";
+
+// 云服务套餐页面
+
+"cloudServiceViewControllerTitle"                 = "云服务套餐";
+"cloudServiceViewControllerHintHasService"        = "   已绑定套餐:  ";
+"cloudServiceViewControllerHintNoService"         = "   未绑定套餐";
+"cloudServiceViewControllerHintServiceExpired"    = "   套餐已过期, 请续费或解绑后绑定其他套餐";
+"cloudServiceViewControllerSearchButtonTitle"     = "搜索录像文件";
+"cloudServiceViewControllerUnbindButtonTitle"     = "解绑云服务套餐";
+"cloudServiceViewControllerHudDeviceConnecting"   = "正在连接设备";
+"cloudServiceViewControllerHudServerConnection"   = "正在连接服务器";
+"cloudServiceViewControllerHudDeviceBinding"      = "其他用户正在绑定该设备";
+"cloudServiceViewControllerHudDeviceNotSupported" = "设备不支持该功能,请更新固件";
+"cloudServiceViewControllerHudTryAgainLater"      = "连接失败, 请稍后再试";
+"cloudServiceViewControllerHudSuccess"            = "绑定成功";
+"cloudServiceViewControllerHudSendEmailSuccess"   = "解绑验证邮件已发送至您的邮箱: ";
+"cloudServiceViewControllerCellBind"              = "绑定";
+"cloudServiceViewControllerCellBuy"               = "购买服务";
+"cloudServiceViewControllerRenew"                 = "续费";
+"cloudServiceViewControllerBindAlertTitle"        = "绑定套餐";
+"cloudServiceViewControllerBindAlertMessage"      = "是否为设备绑定该云服务套餐？";
+"cloudServiceViewControllerBindAlertCancel"       = "取消";
+"cloudServiceViewControllerBindAlertConfirm"      = "确定";
+"cloudServiceViewControllerUnbindAlertTitle"      = "解绑套餐";
+"cloudServiceViewControllerUnindAlertMessage"     = "解绑云服务套餐可能导致录像文件被清除, 是否确定解绑?";
+"cloudServiceViewControllerUnbindAlertCancel"     = "取消";
+"cloudServiceViewControllerUnbindAlertConfirm"    = "确定";
+
+// 云服务套餐解绑页面
+
+"unbindServiceViewControllerTitle"                  = "解绑云服务套餐";
+"unbindServiceViewControllerValidCodePlaceholder"   = "验证码";
+"unbindServiceViewControllerValidCodeButtonNormal"  = "发送验证码";
+"unbindServiceViewControllerValidCodeButtonSending" = "正在发送...";
+"unbindServiceViewControllerValidCodeButtonSent"    = "已发送";
+"unbindServiceViewControllerValidCodeButtonFailed"  = "发送失败";
+"unbindServiceViewControllerValidCodeButtonResend"  = "重新发送";
+"unbindServiceViewControllerServiceUnbind"          = "解绑";
+"unbindServiceViewControllerHudSuccess"             = "解绑成功";
+"unbindServiceViewControllerHudFailed"              = "解绑失败";
+
+// 云服务录像文件搜索页面
+
+"cloudFileSearchViewControllerTitle"           = "云服务录像文件搜索";
+"cloudFileSearchViewControllerDate"            = "日期";
+"cloudFileSearchViewControllerBegin"           = "开始时间";
+"cloudFileSearchViewControllerEnd"             = "结束时间";
+"cloudFileSearchViewControllerSearch"          = "搜索文件";
+"cloudFileSearchViewControllerHudFileNotExist" = "没有录像文件";
+"cloudFileSearchViewControllerHudNetworkError" = "网络不给力...";
+
+// 云服务录像文件列表页面
+
+"cloudFileViewControllerTitle"    = "云服务录像列表";
+"cloudFileViewControllerTime"     = "时间";
+"cloudFileViewControllerDuration" = "时长";
+"cloudFileViewControllerSize"     = "大小";
+
+//  商城页面
+
+"cloudShopViewControllerBackButtonTitle" = "退出";
+
+// 录像类型控件
+
+"recordTypeViewTitle"     = "录像类型";
+"recordTypeViewTypeAll"   = "全部录像";
+"recordTypeViewTypeAuto"  = "自动录像";
+"recordTypeViewTypeAlarm" = "报警录像";
+
+// 日期时间选择控件
+
+"datePickerViewCancelButtonTitle"  = "取消";
+"datePickerViewConfirmButtonTitle" = "确定";
+
+//add  by lusongbin 实时录像
+"noticeMsgIsRecording" = "正在录像,是否停止录像并保存";
+
+"RecListIsNull" = "录像列表为空,请搜索录像";
+"StaticIpSuccess" = "静态IP设置成功";
+
+
+//433提示
+"noticeToSetUpAlarmDevice" = "请触发前端报警设备";
+"noticeChecking" = "正在检测";
+
+
+
+"btnModifyPWD" = "修改访问密码";
+
+//抓拍
+"btnScreenShot" ="抓拍";
+//監聽
+"btnSoundEnable" = "监听";
+//镜头
+"btnCamType" = "镜头";
+//模式
+"btnViewMode" = "模式";
+
+
+
+
+

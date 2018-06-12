@@ -1,0 +1,1732 @@
+
+//app name
+"appName"="DEMO";
+
+//lan name
+"lanName"="en";
+
+/* tab home page */
+"tabHomePage" = "Home";
+
+/* tab home page */
+"tabHomeDevice" = "Device List";
+
+/* tab Picture page */
+"tabScreenShot" = "Snapshot";
+
+/* tab Playback page */
+"tabPlayback" = "Playback";
+
+/* tab Help page */
+"tabHelp" = "Help";
+
+/* tab system */
+"tabSetting" = "Settings";
+
+/* tab more */
+"tabMore" = "More";
+
+/* tab system */
+"tabSystem" = "System Settings";
+
+/* tab add device page */
+"tabAddManually" = "Add device manually";
+
+/* tab Search page */
+"tabSearch" = "Search device in LAN";
+
+/* tab Delete page */
+"tabDelete" = "Delete/Modify";
+
+/* button login */
+"btnLogin" = "Login";
+
+/* button listview */
+"btnServerList" = "Device List";
+
+/*lable server*/
+"lblServer" = "Server:";
+
+/*lable port*/
+"lblPort" = "Port:";
+
+/*lable username*/
+"lblUsername" = "Username:";
+
+/*lable password*/
+"lblPassword" = "Password:";
+
+/*lable doing login*/
+"lblDoingLogin" = "Login now, please wait...";
+
+/*lable drag onto the window and play*/
+"lblDragAndPlay" = "Drag onto screen to play";
+
+/*lable Disk  tatal spacet*/
+"lblDiskSize" = "Disk size:";
+
+/*lable  remaining disk space*/
+"lblDiskReainSize" = "Available:";
+
+/* button Delete */
+"btnDelete" = "Delete Device";
+
+/* button modify */
+"btnModify" = "Modify Device";
+
+/* button Modify Multable*/
+"btnModifyMultable" = "Batch Remove";
+
+/* button Inverse */
+"btnInverse" = "Unselect";
+
+/* button Select All */
+"btnSelectAll" = "Select All";
+
+/* button back */
+"btnBack" = "Back";
+
+/* button Stop */
+"btnStop" = "Stop";
+
+/* button Play */
+"btnPlay" = "Play";
+
+/* button Add */
+"btnAdd" = "Add";
+
+/* button Add */
+"btnDemo" = "Demo";
+
+/* button demo List */
+"btnDemoList" = "Demo List";
+
+/* button device manage */
+"btnDevManage" = "Device Manage";
+
+/* button OK */
+"btnOK" = "OK";
+
+/* button Edit */
+"btnEdit" = "Edit";
+
+/* button Finish */
+"btnFinish" = "Finish";
+
+/* button Cancel */
+"btnCancel" = "Cancel";
+
+/* button YES */
+"btnYES" = "Yes";
+
+/* button NO */
+"btnNO" = "No";
+
+/* button Save */
+"btnSave" = "Save";
+
+/* button Search */
+"btnSearch" = "Search";
+
+/* button ReSearch */
+"btnResearch" = "Search";
+
+/* button addtolist */
+"btnAddToList" = "Add to List";
+
+/* button IsInList */
+"btnIsInList" = "Is already added";
+
+/* button click and cancel login */
+"btnClickToCancelLogin" = "Click here to cancel login";
+
+/* button click and cancel search */
+"btnClickToCancelSearch" = "Click here to cancel search";
+
+/* button click and cancel update check */
+"btnClickToCancelUpdateCheck" = "Click here to cancel update check";
+
+/* button vertical auto */
+"btnPTZVerticalAuto" = "Auto Tilt";
+
+/* button vertical auto */
+"btnPTZHorizontalAuto" = "Auto Pan";
+
+/* btn Invisible pwd*/
+"btnNetInvisiblePwd" = "Hide Password";
+
+/* lable Setting */
+"lblSetting" = "Settings";
+
+/* lable local Setting */
+"lblLocalSetting" = "Lical Settings:";
+
+/* lable remote Setting */
+"lblRemoteSetting" = "Remote Settings:";
+
+/* lable server info */
+"lblServerInfo" = "Device info";
+
+/* lable net Setting */
+"lblNetSetting" = "Network";
+
+/* lable record Setting */
+"lblRecordSetting" = "Record";
+
+/* lable datetime Setting */
+"lblDatetimeSetting" = "Date&Time";
+
+/* lable user manage */
+"lblUserNamage" = "DevicePWD";
+
+/* lable version info */
+"lblAlarmAndPrompt" = "Alarm Settings";
+
+/* lable alarm picture */
+"lblAlarmPicture" = "Alarm Snapshot";
+
+/* lable version info */
+"lblVerInfo" = "Version&Upgrade";
+
+/* lable app version */
+"lblAppVersion"="App Version:";
+
+/* lable kernal version */
+"lblKernalVersion"="Kernal Version:";
+
+/* lable hardware version */
+"lblHWVersion"="Hardware Version:";
+
+/* lable net current mode */
+"lblNetCurrentMode" = "Current Mode: ";
+
+/* lable net AP Setting */
+"lblNetAPSetting" = "AP (Wifi hotspot mode, work without router)";
+
+/* lable net Station Setting */
+"lblNetStationSetting" = "Station (Work with router)";
+
+/* btn net wifi list */
+"lblSelectFromWifiList" = "Choose WIFI from List";
+
+/* btn loading wifi list*/
+"lblLodingWifiList" = "Searching WIFI near the device now";
+
+/* btn net wifi list*/
+"lblNetWifiList" = "WIFI List Near the device";
+
+/* btn net wifi list*/
+"lblNetVisiblePwd" = "Show Password";
+
+/* btn net wifi open*/
+"lblNetWifiSecureTypeOpen" = "Open";
+
+/* lable record auto record*/
+"lblRecordAutoRecord" = "Continuous Record";
+
+/* lable record alarm record*/
+"lblRecordAlarmRecord" = "Alarm Record";
+
+/* lable record Enable*/
+"lblRecordEnable" = "Enable";
+
+/* lable record Disable*/
+"lblRecordDisable" = "Disable";
+
+/* lable time dev time*/
+"lblTimeDeviceTime" = "Device Time:";
+
+/* lable time date config*/
+"lblTimeDateSetting" = "Date:";
+
+/* lable time time config*/
+"lblTimeTimeSetting" = "Time:";
+
+/* lable time zone*/
+"lblTimeZoneSetting" = "Time Zone:";
+
+/* lable time zone list*/
+"lblTimeZoneList" = "Time Zone List";
+
+/* lable time zone*/
+"lblTimeZoneW12" = "(GMT -12) Eniwetok Island";
+
+/* lable time zone*/
+"lblTimeZoneW11" = "(GMT -11) Samoa";
+
+/* lable time zone*/
+"lblTimeZoneW10" = "(GMT -10) Hawaii";
+
+/* lable time zone*/
+"lblTimeZoneW9" = "(GMT -9) Alaska";
+
+/* lable time zone*/
+"lblTimeZoneW8" = "(GMT -8) PT (Pacific time)";
+
+/* lable time zone*/
+"lblTimeZoneW7" = "(GMT -7) MST (Mountain Standard Time)";
+
+/* lable time zone*/
+"lblTimeZoneW6" = "(GMT -6) CST (Center Standard Time)";
+
+/* lable time zone*/
+"lblTimeZoneW5" = "(GMT -5) Eastern Time";
+
+/* lable time zone*/
+"lblTimeZoneW4" = "(GMT -4) Atlantic standard time";
+
+/* lable time zone*/
+"lblTimeZoneW3" = "(GMT -3) Brasilia";
+
+/* lable time zone*/
+"lblTimeZoneW2" = "(GMT -2) Mid-Atlantic";
+
+/* lable time zone*/
+"lblTimeZoneW1" = "(GMT -1) Azores";
+
+/* lable time zone*/
+"lblTimeZoneZero" = "(GMT ＋0) Greenwich";
+
+/* lable time zone*/
+"lblTimeE1" = "(GMT +1) Roman";
+
+/* lable time zone*/
+"lblTimeE2" = "(GMT +2) Israel";
+
+/* lable time zone*/
+"lblTimeE3" = "(GMT +3) Moscow";
+
+/* lable time zone*/
+"lblTimeE4" = "(GMT +4) Baku";
+
+/* lable time zone*/
+"lblTimeE5" = "(GMT +5) New Delhi";
+
+/* lable time zone*/
+"lblTimeE6" = "(GMT +6) Dhakar";
+
+/* lable time zone*/
+"lblTimeE7" = "(GMT +7) Bangkok";
+
+/* lable time zone*/
+"lblTimeE8" = "(GMT +8) Beijing, Singapore";
+
+/* lable time zone*/
+"lblTimeE9" = "(GMT +9) Tokyo";
+
+/* lable time zone*/
+"lblTimeE10" = "(GMT +10) Sydney";
+
+/* lable time zone*/
+"lblTimeE11" = "(GMT +11) Magadan";
+
+/* lable time zone*/
+"lblTimeE12" = "(GMT +12) Wellington";
+
+
+/* btn time sync with phone time*/
+"lblTimeSyncPhoneTime" = "Sync with mobile time";
+
+/* btn user userinfo*/
+"lblUserInfo" = "User Info";
+
+/* btn user modify password*/
+"lblUserModifyPwd" = "Modify Password";
+
+/* btn user old password*/
+"lblUserOldPwd" = "Old PWD:";
+
+/* btn user new password*/
+"lblUserNewPwd" = "New PWD:";
+
+/* btn user confirm*/
+"lblUserConfirm" = "Confirm PWD:";
+
+//add 20131109
+/*lable device id*/
+"lblDevID"="Device ID:";
+
+/*notice msg server is null*/
+"noticeMsgDevIDIsNull" = "Device ID can not be empty:";
+
+/*notice msg ip format err*/
+"noticeMsgIPFormatErr" = "IP Address format incorrect";
+
+/*notice ap name is null*/
+"noticeMsgApNameIsNULL" = "AP name can not be empty!";
+
+/*notice station name is null*/
+"noticeMsgStationNameIsNULL" = "WiFi name can not be empty!";
+
+/*notice delete finish*/
+"noticeMsgDeleteFinish" = "The device has been deleted!";
+
+/*button advance setting*/
+"btnAdvanceSetting" = "Advanced Settings";
+//end add
+
+/* lable name */
+"lblName" = "Name:";
+
+/* lable ip addr */
+"lblIP" = "IP Address:";
+
+/* lable Device Search Title */
+"lblSearchTile" = "Search";
+
+/* lable Device Searching */
+"lblSearching" = "Searching device now...";
+
+/* lable Device Search cancel */
+"lblSearchCancel" = "Search is cancelled";
+
+/*lable search cell notice add to list*/
+"lblAddToLst" = "Device available to add";
+
+/*lable search cell notice is in list*/
+"lblServerInList" = "Device has been added";
+
+/* lable has*/
+"lblHas" = "Find ";
+
+/* lable device found*/
+"lblFound" = "device(s)";
+
+/* lable List Title */
+"lblListTitle" = "Device List";
+
+/* lable Playing Chn*/
+"lblPlayingChn" = "Now Playing:";
+
+/* lable no user info*/
+"lblNotUserInfo" = "(Notice: No user info detected, click the icon left side to edit)";
+
+/* lable password is nil*/
+"lblPasswordNil" = "(Password is empty)";
+
+/* notice Title notice*/
+"noticeTitleNotice" = "Notice";
+
+/*notice msg device id is null*/
+"noticeMsgDevIDIsNull" = "Please enter the device ID!";
+
+/*notice msg server is null*/
+"noticeMsgServerIsNull" = "IP address can not be empty!";
+
+/*notice msg port is null*/
+"noticeMsgPortIsNull" = "Port can not be empty!";
+
+/*notice msg username is null*/
+"noticeMsgUsernameIsNull" = "Username can not be empty!";
+
+/*notice msg password is null*/
+"noticeMsgPwdIsNull" = "Password can not be empty!";
+
+/*notice net seting ok*/
+"noticeMsgNetsettingok" = "Network configuration is successful: You may need to change your mobile network setting to connect the device. Open mobile network settings?";
+
+/*notice net seting ok*/
+"noticeMsgNetsettingSucceed" = "Network configuration is successful: You may need to change your mobile network setting to connect the device. Open mobile network settings?";
+
+/*notice how to change mode*/
+"noticeMsgChangeMode" = "If you need to change WiFi mode, please switch mode in network settings.";
+
+/*notice stop and back*/
+"noticeMsgStopAndback" = "Stop play and return to device list?";
+
+/* notice Title notice*/
+"noticeTitleLoginFail" = "Login failed:";
+
+/* notice Title notice*/
+"noticeTitleConnectFail" = "Failed to connect device:";
+
+/*notice msg login fail reflesh list*/
+"noticeMsgLoginFailRefreshList" = "Please make sure internet is connected or pull down the device list to refresh.";
+
+/*notice msg server is null*/
+"noticeMsgServerDisconnect" = "Failed to connect device!";
+
+/*notice msg port is null*/
+"noticeMsgVerifyFail" = "Verify failed!";
+
+/*notice msg username is null*/
+"noticeMsgUsernameOrPwdMismacth" = "Username or password incorrect!";
+
+/*notice msg password is null*/
+"noticeMsgVersionNoSuport" = "App version is not supported!";
+
+/* notice Title notice*/
+"noticeTitleStopPlay" = "Stopped playing";
+
+/*notice msg server is null*/
+"noticeMsgRecvImageErr" = "Failed to receive!";
+
+/*notice msg port is null*/
+"noticeMsgConnFail" = "Failed to connect!";
+
+/*notice delete the server*/
+"noticeMsgDeleteServer" = "Delete the following devices' record?";
+
+/*notice stop play and return*/
+"noticeMsgPlayingVideo" = "Playing now, stop and go back?";
+
+/*notice clear server list*/
+"noticeMsgClearList" = "Clear device list?";
+
+/*toast add in list*/
+"toastAddInList" = "is added to list.";
+
+/*toast add in list*/
+"toastRemoveFromList" = "is removed from list.";
+
+/*toast list is empty*/
+"toastListIsEmpty" = "No device yet, please add device.";
+
+/*title add */
+"titleAdd"="Add Device";
+
+/*title modify */
+"titleModify"="Modify Device Info";
+
+/*title chns */
+"titleChns"="Channel";
+
+/*pull to search*/
+"pullToSearch"="Pull down device list to search in LAN";
+
+/*pull to search*/
+"releaseToStartSearch"="Release to start device LAN search.";
+
+/*notice get config OK*/
+"noticeGetConfigOK"="Success to get device configuration.";
+
+/*notice set config fail*/
+"noticeSetConfigOK"="Success to save device configuration.";
+
+/*notice get config fail*/
+"noticeGetConfigFail"="Failed to load device configuration: ";
+
+/*notice set config fail*/
+"noticeSetConfigFail"="Failed to save device configuration: ";
+
+/*notice connect fail*/
+"noticeCNNFail"="Failed to connect";
+
+/*notice no user*/
+"noticeNOUser"="User does not exist";
+
+/*notice password err*/
+"noticePWDErr"="Username or password is wrong!";
+
+/*notice no priority*/
+"noticeNOPRI"="Not authorized.";
+
+/*notice time fmt err*/
+"noticeTimeFMTErr"="Time format incorrect.";
+
+/*notice ap pwd fmt err*/
+"noticeAPPWDFMTErr"="AP password can be empty or not less than 8 characters.";
+
+/*notice station pwd fmt err*/
+"noticeStationPWDFMTErr"="Station password can be empty or not less than 8 characters.";
+
+/*notice pwd fmt err*/
+"noticePWDFMTErr"="Password can be empty or not less than 8 characters.";
+
+/*notice HD tips*/
+"noticeHDTips"="It's better to play HD video landscape.";
+
+/*notice no new device found*/
+"noticeNoNewDEVFound"="No new device found.";
+
+/*notice lis fresh*/
+"noticeSearchFinish"="List is refreshed.";
+
+/*notice lis fresh*/
+"noticeAddDevice"="Newly added device:";
+
+/*lable getting config*/
+"lblGettingConfig"="Loading device configuration...";
+
+/*lable Setting config*/
+"lblSettingConfig"="Saving device configuration...";
+
+/*lable search device*/
+"lblSelectedDevice"="Device";
+
+/*lable search device*/
+"lblSelectedDate"="Date";
+
+/*lable rec type*/
+"lblRecType"="Rec Type";
+
+/*lable All*/
+"lblAll"="All";
+
+/*lable Auto*/
+"lblAuto"="Continuous";
+
+/*lable Alarm*/
+"lblAlarm"="Alarm";
+
+/*lable Start time*/
+"lblStartTime"="Start Time";
+
+/*lable End time*/
+"lblEndTime"="End Time";
+
+/*btnSearchFile*/
+"btnSearchFile"="Search";
+
+/*lable filesise*/
+"lblFileSize"="Size: ";
+
+/*lable time start*/
+"lblTimeStart"="Start Time: ";
+
+/*lable timelen*/
+"lblTimeLen"="Duration: ";
+
+/*lable Rec File List*/
+"lblFileList"="Record File List";
+
+/*lable Rec File List loading*/
+"lblFileListLoading"="Retrieving record file list...";
+
+/*lable pls select a device*/
+"lblPlsSelectDevice"="Please select device first.";
+
+/*btn show file list*/
+"btnShowFileList"="Show List";
+
+/*btn no files found*/
+"strNoFilesFound"="No eligible file found!";
+
+/*str hour*/
+"strHour"="hour";
+
+/*str minute*/
+"strMin"="min";
+
+/*str second*/
+"strSec"="sec";
+
+/*str days*/
+"strDays"="day";
+
+/*str days*/
+"strDays2"="day";
+
+/*str Hours*/
+"strHours"="hour";
+
+/*str Hours*/
+"strHours2"="hour";
+
+/*lable Rec File audio enable*/
+"lblRecFileAudioEnable"="Record audio";
+
+/*lable Rec File audio enable*/
+"lblRecFileFrameSize"="Video Quality: ";
+
+/*lable Record time len*/
+"lblRecordTimeLen"="Approx record length";
+
+/*lable no sdcard*/
+"lblNoSDCard"="No SD card detected.";
+
+/*lable sdcard write err*/
+"lbSDCardWritteErr"="SD card is abnormal, reboot device.";
+
+/*lable getting alarm message*/
+"lblGettingAlarmMsg"="Retrieving alarm info...";
+
+/*notice no alarm message*/
+"noticNOAlarmMsg"="No alarm info.";
+
+/*lable Smoke Alarm*/
+"lblSmokeAlarm"="Smog alarm";
+
+/*lable motion Alarm*/
+"lblMotionAlarm"="Motion alarm";
+
+/*lable PIR Alarm*/
+"lblPIRAlarm"="Body induction alarm";
+
+/*lable more Alarm message*/
+"lblMoreAlarmMsg"="Pull up to retrieve more alarm info.";
+
+/*pull to search*/
+"lblReleaseGetMore"="Release to load more...";
+
+/*lable loading more Alarm message*/
+"lblLoadingAlarmMsg"="Loading now...";
+
+/*lable input name*/
+"lblInputName"="Give your device a nickname.";
+
+/*lable audio switch*/
+"lblAudioSwitch"="Voice prompt switch";
+
+/*lable audio main switch*/
+"lblAudioMainSwitch"="Voice master switch";
+
+/*lable audio main switch*/
+"lblAlarmAudio"="Device alarm audio: ";
+
+/*lable audio main switch*/
+"lblLanguange"="Voice prompt language: ";
+
+/*lable audio switch*/
+"lblIOSwitch"="External alarm IO: ";
+
+/*lable audio switch*/
+"lblIOMode"="External alarm IO Mode: ";
+
+/*lable audio switch*/
+"lblIOModeExternal"="External alarm system";
+
+/*lable audio switch*/
+"lblIOModeInternal"="Internal alarm system";
+
+/*lable audio switch*/
+"lblIOModeManualOff"="Off output manually";
+
+/*lable audio switch*/
+"lblIOModeManualOn"="On input manually";
+
+/*lable language cn*/
+"lblLanguageCN"="Chinese";
+
+/*lable language en*/
+"lblLanguageEN"="English";
+
+/*lable alarm main switch*/
+"lblAlarmMianSwitch"="Arm/Disarm Switch: ";
+
+/*lable demo list*/
+"lblDemoList"="Demo";
+
+/*btn close*/
+"btnClose"="Close";
+
+/*btn open*/
+"btnOpen"="Open";
+
+/*btn save toa lbums*/
+"btnSavePicture"="Save image";
+
+/*notice  t*/
+"noticeNoNewMsg"="No New Message";
+
+/*notice  t*/
+"noticeRequestFail"="Request Fail";
+
+/*notice  t*/
+"noticeSDCardNotExist"="No SD card detected on mobile.";
+
+/*notice  */
+"noticeScreenshotFail"="Failed to screenshot";
+
+/*notice  */
+"noticeScreenshotOK"="Image has been saved to album";
+
+/*notice  */
+"noticeFileSaveToAlbums"="Image has been saved to album";
+
+/*notice  */
+"noticeFileSaveFail"="Failed to save file";
+
+/*notice  */
+"noticeSavingImage"="Saving now...";
+
+/*lbl  */
+"lblTouchToMoveCam"="Swipe on screen to PAN/Tilt";
+
+/*notice no nv device  */
+"noticeNoNVDevice"="Incorrect QR Code";
+
+/*notice Device found  */
+"noticeDeviceFound"="Device found";
+
+/*notice no mic pri*/
+"noticeNoMicPRI"="App is not authorized to use mic";
+
+/*notice no album pri */
+"noticeSCNOAlbumsPri"="Failed to save image, please check if app is authorized to access album";
+
+/*notice no album pri */
+"noticeSFNOAlbumsPri"="Failed to save image, please check if app is authorized to access album";
+
+/*notice no device in list 请点击这里添加设备*/
+"lblNoDeviceInList"="Add device";
+
+/*button Add ensure  */
+"btnAddEnsure"="Add to list";
+
+/*button Add Select  */
+"btnAddDeviceSelected"="Add device(s)";
+
+/*button delete Select  */
+"btnDeleteDeviceSelected"="Delete Selected device(s)";
+
+/*button back to list  */
+"btnBackToList"="Device List";
+
+/*button continue manage  */
+"btnContinueManage"="Continue manage";
+
+/*notice device add to list */
+"noticeDeviceAddToList"="Device is successfully added\t\nReturn or continue manage?";
+
+/*notice device delete ok */
+"noticeDeviceDeleteFromList"="Device is successfully removed\t\nReturn or continue manage?？";
+
+/*notice add fail */
+"noticeAddFail"="Failed to add";
+
+/*notice add fail device exist */
+"noticeDeviceExist"="Device already exists";
+
+/*notice device id should be number */
+"noticeDeviceIDNotRight"="Device ID must be number only";
+
+/*lable alarm sound */
+"lblAlarmSound"="Alarm via sound";
+
+/*lable alarm vibrate */
+"lblAlarmVibrate"="Alarm via vibration";
+
+/*lable  gesture pwd */
+"lblGesturePassword"="Pattern password";
+
+/*lable new gesture pwd */
+"lblNewGesturePassword"="Create password";
+
+/*lable delete gesture pwd */
+"lblDeleteGesturePassword"="Delete password";
+
+/*lable Modify gesture pwd */
+"lblModifyGesturePassword"="Modify Password";
+
+/*lable enter password */
+"lblPlsEnterPassword"="Please input password";
+
+/*lable enter password */
+"lblPlsSetAPassword"="Please set a new password";
+
+/*lable enter password */
+"lblPlsConfirmPassword"="Please input password again";
+
+/*lable enter password */
+"lblPasswordAndConfirmNOMatch"="Password dismatch";
+
+/*lable enter password */
+"lblCreatePwdFail"="Password dismatch, failed to create password";
+
+/*lable enter password */
+"lblDeletePwdFailConfirmNOMatch"="Password dismatch, failed to delete password";
+
+/*lable enter password */
+"lblDeletePwdFailPWDErr"="incorrect password, failed to delete password";
+
+/*lable enter password */
+"lblModifyPwdFailConfirmNOMatch"="Password dismatch, failed to modify password";
+
+/*lable enter password */
+"lblModifyPwdFailPWDErr"="Incorrect old password, failed to modify password";
+
+/*lable enter password */
+"lblPlsEnterOld"="Please input old password";
+
+/*lable enter password */
+"lblPlsEnterNew"="Please set a new password";
+
+/*lable enter password */
+"lblCreatePWDOK"="Password created successfully";
+
+/*lable enter password */
+"lblCreatePWDFail"="Failed to create password";
+
+/*lable enter password */
+"lblDeletePWDOK"="Successfully deleted password";
+
+/*lable enter password */
+"lblDeletePWDFail"="failed to delete password";
+
+/*lable enter password */
+"lblModifyPWDOK"="Successfully modified password";
+
+/*lable enter password */
+"lblModifyPWDFail"="Failed to modify password";
+
+/*lable enter password */
+"lblPasswordErr"="Incorrect password entered";
+
+/*lable enter password */
+"lblPwdTryTimes"="Remaining attempts allow to try:";
+
+/*lable enter password */
+"lblRetryAfterTime"="sec to try again";
+
+/*lable app config */
+"lblAppConfig"="App Config";
+
+/*lable app config */
+"lblAlarmNoticeSound"="Alarm notice sound";
+
+/*lable app update check*/
+"lblAppUpdateCheck"="Check Update";
+
+/*lable password manage*/
+"lblPWDManage"="App Password";
+
+/*lable exit app*/
+"lblExitApp"="Exit";
+
+/*lable zoon select*/
+"lblZoonSelect"="Area Selection";
+
+/*lable pressed speak*/
+"lblHoldToTalk"="Hold to talk";
+
+/*lable ptz ctrl notice*/
+"lblPTZCtrlNotice"="Swipe on screen to PAN/TILT";
+
+/*button start search*/
+"btnClickToStartSearch"="Click to search device";
+
+/*notice the first one*/
+"noticeTheFirstOne"="Already the first one";
+
+/*notice the last one*/
+"noticeTheLastOne"="Already the last one";
+
+/*lblHasMessage*/
+"lblHasMessage"="new alarm";
+
+/*lblNOMessage*/
+"lblNOMessage"="No message.";
+
+/*lblCanSpeakNow*/
+"lblCanSpeak"="You may speak now.";
+
+/*btnStopSearch*/
+"btnStopSearch"="Stop search";
+
+/*lable FHD*/
+"lblFHD"="FHD";
+
+/*lable HD*/
+"lblHD"="HD";
+
+/*lable Normal*/
+"lblNormal"="Normal";
+
+/*lable smooth*/
+"lblSmooth"="Smooth";
+
+/*lable set alarm*/
+"lblSetAlarm"="Arm";
+
+/*lable cancel alarm*/
+"lblCancelAlarm"="Disarm";
+
+/*lable id add */
+"lblIDAdd"="Add Manually";
+
+/*lable QR add*/
+"lblQRAdd"="Scan QR Code";
+
+/*lable QR Scanning*/
+"lblQRScanningTitle"="Scan QR Code";
+
+/*lable QR Scanning nitice*/
+"lblQRScanningNotice"="Please place QR Code in the frame";
+
+/*lable QR add*/
+"lblLanSearch"="LAN Search";
+
+/*lable sound wave*/
+"lblSoundWave"="Sound Wave Config";
+
+/* lable on*/
+"lblOn" = "On";
+
+/* lable off*/
+"lblOff" = "Off";
+
+/*notice no update*/
+"noticeNOUpdates"="No update available.";
+
+/*notice find new version*/
+"noticeFindNewVersion"="A new version is available.";
+
+/*notice if exit app*/
+"noticeIfExitApp"="Exit the app?";
+
+/* lable wifi name*/
+"lblWifiName" = "WiFi Name:";
+
+/* lable wifi password*/
+"lblWifiPWD" = " Password";
+
+/* lable wave ready*/
+"lblWaveReady" = "Ready";
+
+/* lable wave config*/
+"lblWaveConfig" = "Sound Wave Config";
+
+/* lable input your config*/
+"lblWifiInputNotice" = "Please input WiFi and Password you want to connect";
+
+/* lable no 5G*/
+"lblNo5GNotice" = "Tips: Please setup the device within 3 meters\n5GWiFi not supported yet";
+
+/* btn next step*/
+"btnNextStep" = "Next";
+
+/* lable close to device*/
+"lblCloseToDevice" = "Please place mobile phone close to the device";
+
+/* btn play sound wave*/
+"btnPlaySoundWave" = "press to send sound wave";
+
+/* btn next to add*/
+"btnNextToAdd" = "Heard voice prompt\nClick here to add device";
+
+/* btn update device*/
+"btnUpdateDevice" = "Update Device Firmware";
+
+/* btn update device to*/
+"btnUpdateDeviceTo" = "Update device to ";
+
+/* btn check update device  */
+"btnUpdateDeviceCheck" = "Check device update";
+
+/* btn check update device  */
+"noticeToUpdateChecking" = "Checking new update...";
+
+/* btn device  start*/
+"btnDeviceUpdateStart" = "Start to update device, please don't off the power";
+
+/* to device  start*/
+"noticeToStartUpdate" = "Prepare to update device...";
+
+/* lbl device ready*/
+"btnDevicePrepare" = "Device is ready";
+
+/* to press reset button*/
+"noticeToPressResetBtn" = "Please press the reset button once";
+
+/* to ap can not update*/
+"noticeAPCanNotUpdate" = "Device is in AP mode, not able to update";
+
+/* to no updates*/
+"noticeDeviceNOUpdate" = "No update available";
+
+/* net change alarm*/
+"noticeWANSettingAlarm" = "Network environment changed, \nyou may not able to connect device, \ncontinue?";
+
+/* to send wave again*/
+"btnSendWaveAgain" = " Go back to send sound wave again";
+
+/* to searching device*/
+"lblWaitForDevConfigAndSearchingDevice" = "Configuring, please wait...";
+
+/* no ptz*/
+"noticeDeviceNoPTZ" = "This device does NOT support PAN/TILT";
+
+/* no  */
+"noticeNextToSearch" = "When you heard 'Config refreshed', please press 'Next', press 'back' if you want to send again.";
+
+/*lbl ready */
+"lblReady" = "Connecting...";
+
+/*lbl on line */
+"lblonline" = "Online";
+
+/*lbl on line lan*/
+"lblonlineLan" = "LAN Online";
+
+/*lbl on line lan*/
+"lblonlineWan" = "WAN Online";
+
+/*lbl ready */
+"lblOffline" = "Offline";
+
+/*lbl ready */
+"lblLocation" = "Preset Location";
+
+/*lbl set ok */
+"lblLocationOK" = "Preset location successfully";
+
+/*lbl set fail */
+"lblLocationFail" = "Preset location failed";
+
+/*click to load picture */
+"lblToLoadAlarmPic" = "Click to load img";
+
+/*notice pwd nil */
+"noticePWDNeedSet" = "Device password is empty, set a password for security reason.\nSet now?";
+
+/*notice no notice */
+"noticeNONotice" = "Never notice";
+
+/*notice no notice */
+"lblRecvAlarm" = "Receive alarm msg";
+
+/*notice no notice */
+"lblSaveNotice" = "Security notice";
+
+/*lable alarm sound */
+"lblPromtsSetting"="Alarm Notification";
+
+/* lable nike name */
+"lblRName" = "Nickname:";
+
+/* lable login password */
+"lblLPassword" = "Password:";
+
+/* lable smart link config*/
+"lblSmartLinkConfig" = "WiFi Smart Link";
+
+/* btn resend smart link config*/
+"btnBackToSmartInput" = "Cancel";
+
+/* notice config time out*/
+"noticeSmartLinkTimeoutTitle" = "Config time out";
+
+/* notice config time out*/
+"noticeSmartLinkTimeout" = "WiFi signal is too weak or password incorrect";
+
+/* lable click to ap*/
+"lblSetDeviceToAP" = "Press the reset button once, to turn on AP mode";
+
+/* lable connect ap*/
+"lblConnAP" = "Connect the AP WiFi in mobile network settings(SSID start with MV)";
+
+/* lable Lan search*/
+"lblSearchFromLan" = "LAN Search(or pull down list to search)";
+
+/* lable remote config to station*/
+"lblConfigToStation" = "press\'Device Config\',choose the device added by LAN search,then choose station mode in \'Network settings\',find your WiFi name and enter the password, press Save to connect it";
+
+/* lable AP link guidelines*/
+"lblAPLinckGuidline" = "Guide to connect AP";
+
+/* lable ptzx title*/
+"lblPTZXTitle" = "Preset Locations";
+
+/* lable ptzx title*/
+"btnPTZXSet" = "Set";
+
+/* lable ptzx title*/
+"btnPTZXCall" = "Call Preset Location";
+
+/* lable alarm device*/
+"lblAlarmDeviceList" = "Alarm Device List";
+
+/* lable  s*/
+"lblGettingAlarmList" = "Retrieving alarm devices list...";
+
+/* lable  */
+"lblAddAlarmDeviceTitle" = "Add new alarm device";
+
+/* lable s*/
+"lblModfiyDeviceTitle" = "Modify device";
+
+/* btn alarm device*/
+"btnAddAlarmDevice" = "Click＋New device";
+
+/* lbl alarm name*/
+"lblAlarmName" = "Alarm Zone:";
+
+/* lbl addr code*/
+"lblAddrCode" = "Address code";
+
+/* lbl ptzx link*/
+"lblAlarmEnable" = "Alarm Enable";
+
+/* lbl ptzx link*/
+"lblPTZXLink" = "Link Preset Location";
+
+/* lbl alarm type*/
+"lblAlarmType" = "Alarm Type";
+
+/* lbl alarm level*/
+"lblAlarmLevel" = "Alarm Level";
+
+/* lbl alarm level*/
+"lblAlarmLevelL" = "Low";
+
+/* lbl alarm level*/
+"lblAlarmLevelM" = "Middle";
+
+/* lbl alarm level*/
+"lblAlarmLevelH" = "High";
+
+/* lbl alarm device*/
+"lblAlarmDeviceOther" = "Others";
+
+/* lbl alarm device*/
+"lblAlarmDeviceAccessCtrl" = "Access control";
+
+/* lbl alarm device*/
+"lblAlarmDeviceSmokeFeeling" = "Smoke detector";
+
+/* lbl alarm device*/
+"lblAlarmDeviceGas" = "Gas detector";
+
+/* lbl alarm device*/
+"lblAlarmDeviceWarmFelling" = "Temperature detector";
+
+/* lbl alarm type*/
+"lblAlarmOther" = "Others";
+
+/* lbl alarm type*/
+"lblAlarmMotion" = "Motion Alarm";
+
+/* lbl alarm type*/
+"lblAlarmAccessCtrl" = "Access control alarm";
+
+/* lbl alarm type*/
+"lblAlarmSmoke" = "Smoke Alarm";
+
+/* lbl alarm type*/
+"lblAlarmGes" = "Gas Alarm";
+
+/* lbl alarm type*/
+"lblAlarmWarm" = "Temperature Alarm";
+
+/* lbl alarm type*/
+"lblAlarmPIR" = "Body Induction Alarm";
+
+/* btn type*/
+"btnConfig" = "Config";
+
+/* btn type*/
+"btnAdded" = "Added";
+
+/*notice adding*/
+"noticeAddingDevice" = "Adding device...";
+
+/*notice deleting*/
+"noticeDeletingDevice" = "Deleting device...";
+
+/*notice modifying*/
+"noticeModifyingDevice" = "Modifying device...";
+
+/*notice adding ok*/
+"noticeAddingOK" = "Successfully added";
+
+/*notice adding fail*/
+"noticeAddingFail" = "Failed to add";
+
+/*notice delete ok*/
+"noticeDeleteOK" = "Successfully deleted";
+
+/*notice delete fail*/
+"noticeDeleteFail" = "Failed to delete";
+
+/*notice modify ok*/
+"noticeModifyOK" = "Successfully modified";
+
+/*notice modify fail*/
+"noticeModifyFail" = "Failed to modified";
+
+/*lbl unlink*/
+"lblUnlink" = "Unlink";
+
+/*lbl point*/
+"lblPoint" = "Preset Location";
+
+/*lbl manage alarm eara*/
+"btnManageAlarmDevice" = "Manage Alarm Devices";
+
+/*btn config ap*/
+"btnConfigAPNode" = "Unable to WiFi Smart Link? Click here";
+
+/*notice screenshot*/
+"noticeScreenShot" = "Saving image...";
+
+/*lbl eara select*/
+"lblZoneSelect" = "Area:";
+
+/*lbl eara title*/
+"lblZoneAuto" = "Auto Select";
+
+/*lbl eara title*/
+"lblZoneChina" = "China Mainland";
+
+/*lbl eara title*/
+"lblZoneAS1" = "Asia Zone 1";
+
+/*lbl eara desc*/
+"lblZoneAS1Desc" = "(Japan, Korea, Taiwan, Hongkong, Thailand, vietnam)";
+
+/*lbl eara title*/
+"lblZoneAS2" = "Asia Zone 2";
+
+/*lbl eara desc*/
+"lblZoneAS2Desc" = "(Malaysia, Singapore)";
+
+/*lbl eara title*/
+"lblZoneAS3" = "Asia Zone 3";
+
+/*lbl eara desc*/
+"lblZoneAS3Desc" = "(West Asia)";
+
+/*lbl eara title*/
+"lblZoneAS4" = "Asia Zone 4";
+
+/*lbl eara desc*/
+"lblZoneAS4Desc" = "(South Asia, India)";
+
+/*lbl eara title*/
+"lblZoneNA1" = "North America";
+
+/*lbl eara desc*/
+"lblZoneNA1Desc" = "(USA, Canada)";
+
+/*lbl eara title*/
+"lblZoneSA1" = "North America";
+
+/*lbl eara desc*/
+"lblZoneSA1Desc" = "(South America)";
+
+/*lbl eara title*/
+"lblZoneEU1" = "Europe Zone 1";
+
+/*lbl eara desc*/
+"lblZoneEU1Desc" = "(Europe Zone 1)";
+
+/*lbl eara title*/
+"lblZoneEU2" = "Europe Zone 2";
+
+/*lbl eara desc*/
+"lblZoneEU2Desc" = "(Europe Zone 2)";
+
+/*lbl eara title*/
+"lblZoneOA1" = "Oceania";
+
+/*lbl eara desc*/
+"lblZoneOA1Desc" = "(Australia,New Zealand)";
+
+/*lbl eara title*/
+"lblZoneAF1" = "Africa Zone 1";
+
+/*lbl eara desc*/
+"lblZoneAF1Desc" = "(Africa Zone 1)";
+
+/*lbl eara title*/
+"lblZoneAF2" = "Africa Zone 2";
+
+/*lbl eara desc*/
+"lblZoneAF2Desc" = "(Africa Zone 2)";
+
+/*lbl eara selection*/
+"lblZoonSelectTitle" = "Areas";
+
+/*lbl smartlink fail guide*/
+"lblSmartlinkFailGuide" = "WiFi smart config fail. Pls click here";
+
+/*lbl Format notice*/
+"noticeFromatNotice" = "Warning: Formatting will delete all data on the card, click yes to continue";
+
+/*btn format sdcard*/
+"btnFormat" = "Format";
+
+/*notice format sdcard*/
+"noticeToStartFormat" = "Formatting is starting...";
+
+/*lbl Format notice*/
+"noticeFromatOK" = "Start to format, pls keep the device charging";
+
+/* lblpicker time*/
+"lblPickerTime" = "Time";
+
+//add by lusongbin 20160226
+//菜单
+"DevPopManu" = "Menu";
+
+//添加设备
+"btnPopSetupUnlinkDevice" = "Unconfigured New Device";
+
+"btnPopSetuplinkedDevice" = "Device Linked";
+
+"lblExplainSetupUnlinkDevice" = "(Click when the Device is Setup or Reset)";
+
+
+"lblSetuplinkedDevice" = "(Click For Manual Setup)";
+
+//手动配置
+"btnSearchWLAN"="Lan Search";
+
+//更多功能
+"btnMoreHelp"= "Guide";
+
+"btnMoreAlbum" = "Album";
+
+//网络配置
+"btnChangeNetMode"= "Mode Switch";
+
+"btnChangeToAP" = "Switch to AP Mode";
+
+"btnChangeToStation" = "Switch to Station Mode";
+
+"btnAdvanced" = "Advanced Setting";
+
+"lblCurrentAP" = "Current AP Mode";
+
+"lblCurrentStation" = "Current Station Mode";
+
+"lblLocalWiFiList" ="Local WiFi List";
+
+//设备弹出菜单
+"lblDevDelete" = "Del";
+
+"lblDevMessage" = "Msg";
+
+"lblDevEdit" = "Edit";
+
+"lblOneKeyAlarmOn" = "Alarm";
+
+"lblOneKeyAlarmOff" = "Alarm";
+
+
+//alertview 删除设备确认
+"NoticeLblDelete" = "Confirm to delete the device";
+
+"NoticeConfirmDelete" = "Delete";
+
+"NoticeCancel" = "Cancel";
+/*guide view*/
+"guideDevLiset" = "Click to add device";
+
+"guidePlayBack" = "Click to select device";
+
+"guideSetting" = "Click to select device";
+
+//网络设置模式显示
+"lblWiFiModeUnknow" = "Current Mode Unknown";
+
+//相册
+"Done" = "Back";
+
+"Select Photos" = "Select Photos";
+
+"photo" = "Photo";
+
+"photos" = "Photos";
+
+"of" = "of";
+
+"Select" = "Select";
+
+"pbphotos" = "Photos";
+
+"pbvideos" = "Videos";
+
+"pbselectall" = "All";
+
+"pbselectnone" = "None";
+
+"GotoAlbumtodelete" = "Ios7 or previous system users please go to the system photo albums to delete photos or videos";
+
+//toast NetworkDisable
+"toastNetWorkDisable" = "No network connection, please check your network configuration";
+
+//一键布撤防toast
+
+"setAlarmOnSuccessful" = "Alarm On";
+
+
+"setAlarmOffSuccessful" = "Alarm Off";
+
+
+"setAlarmOnFail" = "Failed to enable alarm";
+"setAlarmOffFail" = "Failed to disable alarm";
+
+"settingAlarm" = "Alarm Setting...";
+
+
+//静态ip设置
+
+"str_static_ip_config" = "IP Configuration";
+"str_ip" = "IP:";
+
+"str_subnet_mask" = "Subnet mask:";
+"str_gateway" = "Gateway:";
+"str_main_dns" = "Main DNS:";
+"str_sub_dns" = "Sub DNS:";
+
+"str_null_ip" = "IP address can not be blank";
+"str_null_subnet" = "Sbnet mask can not be blank";
+"str_null_gateway" = "Gateway can not be blank";
+"str_null_main_dns" = "Main DNS can not be blank";
+
+"str_error_ip" = "IP address error";
+"str_error_subnet" = "Sbnet mask error";
+"str_error_gateway" ="Gateway error";
+"str_error_main_dns" = "Main DNS error";
+"str_error_sub_dns" = "Sub DNS error";
+"str_auto_config" = "Auto Config";
+"str_manual_config" = "Manual Config";
+
+"noticeDeviceUnSupport" = "Not support";
+
+
+//end add by lusongbin 20160226
+
+
+// Add By GXG 2016.08.29
+
+// 设备信息 cell 页面
+
+"deviceInfoTableViewCellDelete"  = "Del";
+"deviceInfoTableViewCellEdit"    = "Edit";
+"deviceInfoTableViewCellMessage" = "Msg";
+"deviceInfoTableViewCellArm"     = "Arm";
+"deviceInfoTableViewCellDisarm"  = "Disarm";
+
+// 登录页面
+
+"loginControllerUsername"         = "Phone/Email";
+"loginControllerPassword"         = "Password";
+"loginControllerReset"            = "Forget?";
+"loginControllerRegister"         = "Register";
+"loginControllerLogin"            = "Login";
+"loginControllerTryout"           = "Local";
+"loginControllerUserNotActivated" = "Account not activated, please go check your email.";
+
+// 快速注册/忘记密码页面
+
+"passwordViewControllerTitleRegister"  = "Register";
+"passwordViewControllerTitleReset"     = "Password Reset";
+"passwordViewControllerMobile"         = "Phone";
+"passwordViewControllerEmail"          = "Email";
+"passwordViewControllerValidCode"      = "Valid Code";
+"passwordViewControllerPassword"       = "Password";
+"passwordViewControllerConfirm"        = "Confirm Password";
+"passwordViewControllerNewPassword"    = "New Password";
+"passwordViewControllerNewConfirm"     = "Confirm Password";
+"passwordViewControllerContinue"       = "Continue";
+"passwordViewControllerResend"         = "Resend";
+"passwordViewControllerSending"        = "Sending";
+"passwordViewControllerFailed"         = "Failed";
+"passwordViewControllerSuccess"        = "Success";
+"passwordViewControllerSubmit"         = "Submit";
+"passwordViewControllerRegister"       = "Register";
+"passwordViewControllerReset"          = "Submit";
+"passwordViewControllerMobileRegister" = "Mobile Register";
+"passwordViewControllerMobileReset"    = "Mobile Reset";
+"passwordViewControllerEmailRegister"  = "Email Register";
+"passwordViewControllerEmailReset"     = "Email Reset";
+"passwordViewControllerBackToLogin"    = "Back to Login";
+"passwordViewControllerMobileHint"     = "Valid code has been sent to your phone";
+"passwordViewControllerEmailHint"      = "Please go check your email and activate.";
+
+// 重新登录页面
+
+"loginAlertControllerExpired"  = "Please Login";
+"loginAlertControllerCancel"   = "Cancel";
+"loginAlertControllerConfirm"  = "Login";
+"loginAlertControllerPassword" = "Password";
+
+// 用户信息页面
+
+"userViewControllerUserInfo" = "User Info";
+"userViewControllerAccount"  = "Account";
+"userViewControllerUserName" = "Username";
+"userViewControllerSecurity" = "Security";
+"userViewControllerPassword" = "Password";
+
+// 修改密码页面
+
+"passwordUpdateControllerUpdate"  = "Password Update";
+"passwordUpdateControllerCurrent" = "Current Password";
+"passwordUpdateControllerNew"     = "New Password";
+"passwordUpdateControllerConfirm" = "Confirm Password";
+"passwordUpdateControllerSubmit"  = "Submit";
+
+// 更多功能页面
+
+"helpViewControllerLogin"         = "Login";
+"helpViewControllerLogOut"        = "Log Out";
+"helpViewControllerLogOutConfirm" = "Sure to log out?";
+
+"aboutApp" = "About";
+
+//
+
+// End Add By GXG 2016.08.29
+
+
+//录像下载
+"btnDownload" = "Download";
+"btnDownloadFail" = "Restart";
+"btnDownloadsuccess" = "Successful";
+"btnDownloading" = "Downloading";
+"btnConnecting" = "Connecting";
+"btnStopDownload" = "Stop";
+
+//下载toast
+"lblsavesuccess" = "Save Successful";
+"lblsavefail" = "Save Failed";
+"lblDownloadFail" = "Download Failed";
+
+//弹框提醒
+"lblDownloading" = "Mission in progress";
+"lblifCancelDownload" = "Sure to cancel?";
+"lblCancelDownloadAndPlay" = "Cancel download and play?";
+
+//playview
+"btnScreenshot" = "ScreenShot";
+"btnHolder" = "Holder";
+"btnPosition" = "Position";
+"btnRotate" = "Rotate";
+"btnRecord" ="Record";
+"btnRecording" = "Recording...";
+
+//samrtLink 界面
+"noticeSmartLinkFail" = "SmartLink failed? Please click here...";
+
+// 网络请求返回类型
+
+"networkOperationResultCodeTypeSuccess"                 = "Success";
+"networkOperationResultCodeTypeNetworkError"            = "Network Error";
+"networkOperationResultCodeTypeIdentifierError"         = "Identifier Error";
+"networkOperationResultCodeTypeServerError"             = "Server Error";
+"networkOperationResultCodeTypeSignError"               = "Sign Error";
+"networkOperationResultCodeTypeRequestExpired"          = "Request Expired";
+"networkOperationResultCodeTypeParameterMissing"        = "Parameter Missing";
+"networkOperationResultCodeTypeValueDuplicated"         = "Value Duplicated";
+"networkOperationResultCodeTypeInfoNotFound"            = "Info Not Found";
+"networkOperationResultCodeTypeParameterInvalid"        = "Parameter Invalid";
+"networkOperationResultCodeTypeUpToDate"                = "Up To Date";
+"networkOperationResultCodeTypeOtherError"              = "Other Error";
+"networkOperationResultCodeTypeValidCodeError"          = "Valid Code Error";
+"networkOperationResultCodeTypeValidCodeExpired"        = "Valid Code Expired";
+"networkOperationResultCodeTypeUsernameMalformed"       = "Username Malformed";
+"networkOperationResultCodeTypeMailOrMobileMalformed"   = "Account Malformed";
+"networkOperationResultCodeTypeMailOrMobileExist"       = "Account Exist";
+"networkOperationResultCodeTypePasswordMalformed"       = "Password Malformed";
+"networkOperationResultCodeTypeUserNotExist"            = "User Not Exist";
+"networkOperationResultCodeTypeUsernameOrPasswordError" = "Username Or Password Error";
+"networkOperationResultCodeTypeOldPasswordError"        = "Old Password Error";
+"networkOperationResultCodeTypeUserNotActivated"        = "User Not Activated";
+"networkOperationResultCodeTypeUserActivated"           = "User Activated";
+"networkOperationResultCodeTypeDeviceNotExist"          = "Device Not Exist";
+"networkOperationResultCodeTypeServiceNotExist"         = "Service Not Exist";
+"networkOperationResultCodeTypeInfoNotExist"            = "Info Not Exist";
+"networkOperationResultCodeTypeDeviceExistingService"   = "Device Existing Service";
+"networkOperationResultCodeTypeServiceExistingDevice"   = "Service Existing Device";
+"networkOperationResultCodeTypeTokenError"              = "Token Error";
+"networkOperationResultCodeTypeTokenExpired"            = "Token Expired";
+"networkOperationResultCodeTypeUnknown"                 = "Unknow Error";
+
+// 更改设备密码
+
+"configViewControllerUsernameNil"              = "Username can not be nil!";
+"configViewControllerCurrentPasswordIncorrect" = "Current password incorrect!";
+"configViewControllerNewPasswordNotSame"       = "Confirm and new password are not the same!";
+
+// 云服务套餐页面
+
+"cloudServiceViewControllerTitle"                 = "Cloud Service";
+"cloudServiceViewControllerHintHasService"        = "   Has service:  ";
+"cloudServiceViewControllerHintNoService"         = "   Has no service";
+"cloudServiceViewControllerHintServiceExpired"    = "   Service expired";
+"cloudServiceViewControllerSearchButtonTitle"     = "Search";
+"cloudServiceViewControllerUnbindButtonTitle"     = "Unbind";
+"cloudServiceViewControllerHudDeviceConnecting"   = "Device connecting";
+"cloudServiceViewControllerHudServerConnection"   = "Server connecting";
+"cloudServiceViewControllerHudDeviceBinding"      = "Device binding by other user";
+"cloudServiceViewControllerHudDeviceNotSupported" = "Device not supported";
+"cloudServiceViewControllerHudTryAgainLater"      = "Fail, try again later";
+"cloudServiceViewControllerHudSuccess"            = "Success";
+"cloudServiceViewControllerHudSendEmailSuccess"   = "Check your mailbox: ";
+"cloudServiceViewControllerCellBind"              = "Bind";
+"cloudServiceViewControllerCellBuy"               = "Purchase";
+"cloudServiceViewControllerRenew"                 = "Renew";
+"cloudServiceViewControllerBindAlertTitle"        = "Bind Service";
+"cloudServiceViewControllerBindAlertMessage"      = "Sure to bind service?";
+"cloudServiceViewControllerBindAlertCancel"       = "Cancel";
+"cloudServiceViewControllerBindAlertConfirm"      = "Confirm";
+"cloudServiceViewControllerUnbindAlertTitle"      = "Unbind Service";
+"cloudServiceViewControllerUnindAlertMessage"     = "Unbind service may empty records, sure to unbind?";
+"cloudServiceViewControllerUnbindAlertCancel"     = "Cancel";
+"cloudServiceViewControllerUnbindAlertConfirm"    = "Confirm";
+
+// 云服务套餐解绑页面
+
+"unbindServiceViewControllerTitle"                  = "Unbind Service";
+"unbindServiceViewControllerValidCodePlaceholder"   = "Valid code";
+"unbindServiceViewControllerValidCodeButtonNormal"  = "Send code";
+"unbindServiceViewControllerValidCodeButtonSending" = "Sending";
+"unbindServiceViewControllerValidCodeButtonSent"    = "Sent";
+"unbindServiceViewControllerValidCodeButtonFailed"  = "Failed";
+"unbindServiceViewControllerValidCodeButtonResend"  = "Resend";
+"unbindServiceViewControllerServiceUnbind"          = "Unbind";
+"unbindServiceViewControllerHudSuccess"             = "Success";
+"unbindServiceViewControllerHudFailed"              = "Failed";
+
+// 云服务录像文件搜索页面
+
+"cloudFileSearchViewControllerTitle"           = "Cloud Records";
+"cloudFileSearchViewControllerDate"            = "Date";
+"cloudFileSearchViewControllerBegin"           = "Begin time";
+"cloudFileSearchViewControllerEnd"             = "End time";
+"cloudFileSearchViewControllerSearch"          = "Search";
+"cloudFileSearchViewControllerHudFileNotExist" = "File not exist";
+"cloudFileSearchViewControllerHudNetworkError" = "Network error";
+
+// 云服务录像文件列表页面
+
+"cloudFileViewControllerTitle"    = "Cloud Records";
+"cloudFileViewControllerTime"     = "Time";
+"cloudFileViewControllerDuration" = "Duration";
+"cloudFileViewControllerSize"     = "Size";
+
+//  商城页面
+
+"cloudShopViewControllerBackButtonTitle" = "Exit";
+
+// 录像类型控件
+
+"recordTypeViewTitle"     = "Record type";
+"recordTypeViewTypeAll"   = "All";
+"recordTypeViewTypeAuto"  = "Auto";
+"recordTypeViewTypeAlarm" = "Alarm";
+
+// 日期时间选择控件
+
+"datePickerViewCancelButtonTitle"  = "Cancel";
+"datePickerViewConfirmButtonTitle" = "Confirm";
+
+
+
+//add  by lusongbin 实时录像
+"noticeMsgIsRecording" = "Is recording,are you sure to stop and save?";
+
+"RecListIsNull" = "Video list is empty, please search.";
+
+//静态IP设置成功
+"StaticIpSuccess" = "Static IP setting successful";
+
+//433提示
+"noticeToSetUpAlarmDevice" = "Please trigger the front end alarm device";
+"noticeChecking" = "Searching...";
+
+"btnModifyPWD" = "Modify Password";
+
+//抓拍
+"btnScreenShot" ="ScreenShot";
+//監聽
+"btnSoundEnable" = "Voice";
+//镜头
+"btnCamType" = "CamType";
+//模式
+"btnViewMode" = "Mode";
+

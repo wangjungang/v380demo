@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+"CFBundleDisplayName" = "DEMO";
+"NSPhotoLibraryUsageDescription"= "App Need your permission to access the album";
+"NSCameraUsageDescription"= "App Need your permission to access the Camera";
+"NSMicrophoneUsageDescription" = "App Need your permission to access the Miccrophone";
+"NSLocationUsageDescription" = "App Need your permission to access the location";
+

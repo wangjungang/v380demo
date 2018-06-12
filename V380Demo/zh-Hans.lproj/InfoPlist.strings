@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "DEMO";
+/*权限描述*/
+"NSPhotoLibraryUsageDescription"= "需要您的同意,才能访问相册";
+"NSCameraUsageDescription"= "需要您的同意,才能访问相机";
+"NSMicrophoneUsageDescription" = "需要您的同意,才能访问麦克风";
+"NSLocationUsageDescription" = "需要您的同意,才能访问位置";
